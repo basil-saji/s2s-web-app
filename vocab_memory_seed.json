@@ -1,0 +1,7549 @@
+{
+  "core_words": {
+    "HELLO": {
+      "source": "default"
+    },
+    "YES": {
+      "source": "default"
+    },
+    "NO": {
+      "source": "default"
+    },
+    "GOOD": {
+      "source": "default"
+    },
+    "BAD": {
+      "source": "default"
+    },
+    "HELP": {
+      "source": "default"
+    },
+    "STOP": {
+      "source": "default"
+    },
+    "GO": {
+      "source": "default"
+    },
+    "COME": {
+      "source": "default"
+    },
+    "I": {
+      "source": "default"
+    },
+    "YOU": {
+      "source": "default"
+    },
+    "HE": {
+      "source": "default"
+    },
+    "SHE": {
+      "source": "default"
+    },
+    "IT": {
+      "source": "default"
+    },
+    "WE": {
+      "source": "default"
+    },
+    "THEY": {
+      "source": "default"
+    },
+    "THE": {
+      "source": "default"
+    },
+    "AND": {
+      "source": "default"
+    },
+    "TO": {
+      "source": "default"
+    },
+    "A": {
+      "source": "default"
+    }
+  },
+  "user_words": {
+    "THAT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "A": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VALID": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "POINT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "I": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SEE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WHAT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "YOU": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEAN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "US": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DISCUSS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THIS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HAVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SUGGESTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SOUNDS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REASONABLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLEASE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLARIFY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "YOUR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "UNDERSTAND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PERSPECTIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SHOULD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONSIDER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GREAT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IDEA": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DISAGREE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WITH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NEED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BETTER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLAN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "START": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEETING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FINAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VERSION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SEND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DOCUMENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WILL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHECK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DETAILS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VERY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HELPFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CAN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MOVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FORWARD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NEXT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STEP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REVIEW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GOALS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "APPRECIATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INPUT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRIORITY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CAREFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAKES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PERFECT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SENSE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NOT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "QUITE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOOK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FACTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXPLAIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROCESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MORE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INFORMATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXCELLENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OBSERVATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AGREE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ASSESSMENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ON": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TRACK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REQUIRES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THOUGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BRIEF": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "QUESTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "UPDATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STATUS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FINALIZE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TODAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FAIR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CRITIQUE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HANDLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TASK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COORDINATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OUR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EFFORTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OBJECTIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VALUE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROFESSIONAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OPINION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLEAR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SOLUTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIGNIFICANT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IMPROVEMENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROVIDE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SOME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FEEDBACK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FOLLOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "UP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LATER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIMPLIFY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "APPROACH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SEEMS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROMISING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WAIT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FOR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RESULTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOGICAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONCLUSION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "POTENTIAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ISSUE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ADDRESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SHARE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THOUGHTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ARE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAKING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROGRESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SOLID": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "READY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BEGIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONFIRM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SCHEDULE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CORRECT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FOCUS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOUGH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHALLENGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MANAGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROJECT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DEFINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SCOPE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IMPORTANT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WORK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VERIFY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DATA": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SEEK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ADVICE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WISE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHOICE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FULL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AGREEMENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXPLORE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OTHER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OPTIONS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BEST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STRATEGY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EFFICIENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INTERESTING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONCEPT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TAKE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LEAD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MINIMIZE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RISK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEETS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REQUIREMENTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "KEEP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INFORMED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ADJUST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TIMELINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BENEFIT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SITUATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOGETHER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HIGHLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EFFECTIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MUST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONSISTENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NOTABLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHANGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PREPARE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REPORT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REACH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONSENSUS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STANDARD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROCEDURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALTERNATIVES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAINTAIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VITAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BIG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PICTURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROCEED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CAUTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRODUCTIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SESSION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COMMUNICATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DISTINCT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ADVANTAGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ORGANIZE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FILES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EVALUATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PERFORMANCE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COMPREHENSIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GUIDE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RESPECT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DEADLINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OPTIMIZE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DECISION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONFIDENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WRAP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DESIRED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OUTCOME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SCREEN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SHOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EVERYONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WORKS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PERFECTLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SLIDE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NOTICE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LAYOUT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HERE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLEARLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PART": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WATCH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHANGES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLICK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BUTTON": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OPEN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MENU": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SELECT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FIRST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OPTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SYSTEM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ACTIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NEW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FEATURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OBSERVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FLOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NOTE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SMOOTH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TRANSITION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EVERYTHING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RUNNING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WELL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHART": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GRAPH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SHOWS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TREND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "USE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SCROLL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BAR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HIGHLIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "KEY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "POINTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EASY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INSTRUCTIONS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROVIDED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INTERFACE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLEAN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DRAG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FILE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DROP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INTO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FOLDER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SAVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REFRESH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DISPLAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COMPLETE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ZOOM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IMAGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CENTER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STARTS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SWITCH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VIEW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ANIMATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLAYING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FINISH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SOON": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONNECTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ESTABLISHED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TYPE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TEXT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DELETE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OLD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COPY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LINK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PASTE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BOX": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ENTER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WINDOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLOSE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "APPLICATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SAFELY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RESTART": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DEMONSTRATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "QUALITY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HIGH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BOTTOM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LEFT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CORNER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DASHBOARD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DIFFERENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SETTINGS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BRIGHTNESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LEVEL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LEGIBLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NAVIGATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HOME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PAGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ICON": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIGNAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STRONG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DEFAULT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MODIFY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CURRENT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PARAMETERS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INSTALLING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HARDWARE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLUG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CABLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TURN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DEVICE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "INDICATOR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ERROR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FIX": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALTERNATIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "METHOD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DESIGN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MODERN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DETAILED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COLLAPSE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIDE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PANEL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXPAND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SEARCH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FILTER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CATEGORY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SORT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LIST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALPHABETICALLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PREVIEW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AVAILABLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRINT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXPORT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PDF": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRESENTATION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STARTING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ATTENTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOGIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SECURITY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CODE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ACCESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GRANTED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SUMMARY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SELECTION": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SUCCESSFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ICONS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIMPLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SWIPE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TAP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ONCE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HOLD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DOWN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RELEASE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SLOWLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MACHINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "QUIET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SPEED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "IMPRESSIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SAVES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ANY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "QUESTIONS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ABOUT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THANK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WATCHING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AMAZING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NEWS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXCITED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TIRED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FEELING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NICE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HOPE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LIKE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FUN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WHEN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SHALL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HAPPY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SURPRISE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BUSY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "OUTSIDE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WHERE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GOING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COMING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GETTING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LATE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CALL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TONIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MESSAGE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THERE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "KIND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WELCOME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MUCH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SORRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FORGIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALRIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROBLEM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GLAD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FUNNY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LAUGHING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TELL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STORY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LISTENING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLOSELY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WANT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LEARN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LESSON": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CURIOUS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HAPPENED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PROUD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TRULY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BEAUTIFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WEATHER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOVELY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RAINING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SUNSHINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CLOUDS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PRETTY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PEACEFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HEAR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MUSIC": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SLEEP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GOOD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NIGHT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SWEET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DREAMS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WAKE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EARLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOMORROW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MORNING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALREADY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BREAKFAST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TEA": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HOT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DRINK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TASTES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WALK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PARK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BIRD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TREES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TALL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NATURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CALM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLACE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LONGER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALMOST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAIL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "READ": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BOOK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ENDING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WAS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SURPRISED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "UNEXPECTED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BIT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CONFUSED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AGAIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MAYBE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WORRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "JUST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ALONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SUPPORT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THOUGHTFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HELP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LUCKY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GIFT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SMALL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PLEASURE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WONDERFUL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TIME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ENJOY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WHOLE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MISS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WATER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "THIRSTY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GLASS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HUNGRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FOOD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SNACK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NAPKIN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "RESTROOM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BATHROOM": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOCATED": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NEARBY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOST": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WHICH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEDICAL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FEEL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SICK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HEAD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HURTING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MEDICINE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ASSISTANCE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COLD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "COAT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BLANKET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HEAT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FAN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FRESH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AIR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PHONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "KEYS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "BAG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PASS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "REMOTE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOO": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DARK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CANNOT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "GLASSES": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SIT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FIND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CHAIR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "NAP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "EXIT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FRONT": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DOOR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOCK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PEN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PAPER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WRITE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HAND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HUG": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AWAY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "AFRAID": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SAFE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HELPING": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HAPPENS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SPEAK": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOUDER": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "VOLUME": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LOUD": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STILL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MINUTE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SLOW": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "PACE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HURRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CAR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DRIVE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "CAREFULLY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "STOP": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FAR": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "LISTEN": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "SECRET": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ANYONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FRIEND": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ABSOLUTELY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "ONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DONE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MESS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "MESSY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "TOWEL": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "WASH": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "HANDS": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "DRY": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    },
+    "FACE": {
+      "frequency": 1,
+      "last_used": 1768657637.3859522
+    }
+  },
+  "ngrams": {
+    "THAT": {
+      "IS": 1,
+      "SOUNDS": 1,
+      "MAKES": 1,
+      "TASK": 1,
+      "WAS": 1,
+      "ONE": 1
+    },
+    "IS": {
+      "A": 1,
+      "THIS": 1,
+      "VERY": 1,
+      "THE": 1,
+      "AN": 1,
+      "HIGHLY": 1,
+      "EVERYONE": 1,
+      "NOW": 1,
+      "RUNNING": 1,
+      "COMPLETE": 1,
+      "PLAYING": 1,
+      "ESTABLISHED": 1,
+      "INSTALLING": 1,
+      "READY": 1,
+      "MODERN": 1,
+      "AVAILABLE": 1,
+      "STARTING": 1,
+      "GRANTED": 1,
+      "SUCCESSFUL": 1,
+      "SIMPLE": 1,
+      "QUIET": 1,
+      "IMPRESSIVE": 1,
+      "AMAZING": 1,
+      "GETTING": 1,
+      "QUITE": 1,
+      "GREAT": 1,
+      "TRULY": 1,
+      "LOVELY": 1,
+      "RAINING": 1,
+      "MORNING": 1,
+      "HOT": 1,
+      "BEAUTIFUL": 1,
+      "JUST": 1,
+      "MY": 1,
+      "IT": 1,
+      "HURTING": 1,
+      "TOO": 1,
+      "ABSOLUTELY": 1
+    },
+    "THAT IS": {
+      "A": 1,
+      "VERY": 1,
+      "AN": 1,
+      "AMAZING": 1
+    },
+    "A": {
+      "VALID": 1,
+      "SUGGESTION": 1,
+      "GREAT": 1,
+      "BETTER": 1,
+      "TOP": 1,
+      "BRIEF": 1,
+      "FAIR": 1,
+      "CLEAR": 1,
+      "SIGNIFICANT": 1,
+      "LOGICAL": 1,
+      "POTENTIAL": 1,
+      "SOLID": 1,
+      "TOUGH": 1,
+      "WISE": 1,
+      "NOTABLE": 1,
+      "CONSENSUS": 1,
+      "VITAL": 1,
+      "PRODUCTIVE": 1,
+      "DISTINCT": 1,
+      "COMPREHENSIVE": 1,
+      "NEW": 1,
+      "LOT": 1,
+      "NICE": 1,
+      "SURPRISE": 1,
+      "MESSAGE": 1,
+      "STORY": 1,
+      "BIRD": 1,
+      "BIT": 1,
+      "GIFT": 1,
+      "WONDERFUL": 1,
+      "GLASS": 1,
+      "SNACK": 1,
+      "NAPKIN": 1,
+      "BLANKET": 1,
+      "CHAIR": 1,
+      "NAP": 1,
+      "PEN": 1,
+      "HUG": 1,
+      "MINUTE": 1,
+      "SECRET": 1,
+      "FRIEND": 1,
+      "TOWEL": 1
+    },
+    "IS A": {
+      "VALID": 1,
+      "GREAT": 1,
+      "TOP": 1,
+      "FAIR": 1,
+      "SIGNIFICANT": 1,
+      "LOGICAL": 1,
+      "SOLID": 1,
+      "TOUGH": 1,
+      "WISE": 1,
+      "CLEAR": 1,
+      "NOTABLE": 1,
+      "VITAL": 1,
+      "PRODUCTIVE": 1,
+      "DISTINCT": 1,
+      "COMPREHENSIVE": 1,
+      "NEW": 1,
+      "NICE": 1,
+      "SURPRISE": 1,
+      "GIFT": 1
+    },
+    "THAT IS A": {
+      "VALID": 1,
+      "GREAT": 1,
+      "FAIR": 1,
+      "SIGNIFICANT": 1,
+      "LOGICAL": 1,
+      "SOLID": 1,
+      "TOUGH": 1,
+      "WISE": 1,
+      "CLEAR": 1,
+      "NOTABLE": 1,
+      "VITAL": 1,
+      "DISTINCT": 1
+    },
+    "VALID": {
+      "POINT": 1
+    },
+    "A VALID": {
+      "POINT": 1
+    },
+    "IS A VALID": {
+      "POINT": 1
+    },
+    "THAT IS A VALID": {
+      "POINT": 1
+    },
+    "I": {
+      "SEE": 1,
+      "HAVE": 1,
+      "UNDERSTAND": 1,
+      "DISAGREE": 1,
+      "WILL": 1,
+      "APPRECIATE": 1,
+      "AM": 1,
+      "AGREE": 1,
+      "VALUE": 1,
+      "HOPE": 1,
+      "SHOULD": 1,
+      "WANT": 1,
+      "LIKE": 1,
+      "HEAR": 1,
+      "NEED": 1,
+      "LOVE": 1,
+      "SUPPORT": 1,
+      "GO": 1,
+      "FEEL": 1,
+      "LOST": 1,
+      "CANNOT": 1
+    },
+    "SEE": {
+      "WHAT": 1,
+      "A": 1,
+      "THE": 1,
+      "THIS": 1,
+      "WELL": 1
+    },
+    "I SEE": {
+      "WHAT": 1,
+      "A": 1,
+      "THE": 1
+    },
+    "WHAT": {
+      "YOU": 1,
+      "IS": 1,
+      "HAPPENED": 1,
+      "TIME": 1,
+      "HAPPENS": 1
+    },
+    "SEE WHAT": {
+      "YOU": 1
+    },
+    "I SEE WHAT": {
+      "YOU": 1
+    },
+    "YOU": {
+      "MEAN": 1,
+      "SEE": 1,
+      "FOR": 1,
+      "FEELING": 1,
+      "ARE": 1,
+      "SO": 1,
+      "A": 1
+    },
+    "WHAT YOU": {
+      "MEAN": 1
+    },
+    "SEE WHAT YOU": {
+      "MEAN": 1
+    },
+    "I SEE WHAT YOU": {
+      "MEAN": 1
+    },
+    "LET": {
+      "US": 1,
+      "ME": 1
+    },
+    "US": {
+      "DISCUSS": 1,
+      "START": 1,
+      "REVIEW": 1,
+      "LOOK": 1,
+      "STAY": 1,
+      "COORDINATE": 1,
+      "SIMPLIFY": 1,
+      "ADDRESS": 1,
+      "CONFIRM": 1,
+      "DEFINE": 1,
+      "EXPLORE": 1,
+      "MINIMIZE": 1,
+      "WORK": 1,
+      "REACH": 1,
+      "PROCEED": 1,
+      "EVALUATE": 1,
+      "WRAP": 1,
+      "MOVE": 1,
+      "GO": 1,
+      "WALK": 1,
+      "TRY": 1
+    },
+    "LET US": {
+      "DISCUSS": 1,
+      "START": 1,
+      "REVIEW": 1,
+      "LOOK": 1,
+      "STAY": 1,
+      "COORDINATE": 1,
+      "SIMPLIFY": 1,
+      "ADDRESS": 1,
+      "CONFIRM": 1,
+      "DEFINE": 1,
+      "EXPLORE": 1,
+      "MINIMIZE": 1,
+      "WORK": 1,
+      "REACH": 1,
+      "PROCEED": 1,
+      "EVALUATE": 1,
+      "WRAP": 1,
+      "MOVE": 1,
+      "GO": 1,
+      "WALK": 1,
+      "TRY": 1
+    },
+    "DISCUSS": {
+      "THIS": 1
+    },
+    "US DISCUSS": {
+      "THIS": 1
+    },
+    "LET US DISCUSS": {
+      "THIS": 1
+    },
+    "HAVE": {
+      "A": 1,
+      "SOME": 1
+    },
+    "I HAVE": {
+      "A": 1
+    },
+    "HAVE A": {
+      "SUGGESTION": 1,
+      "BRIEF": 1,
+      "WONDERFUL": 1,
+      "SECRET": 1
+    },
+    "I HAVE A": {
+      "SUGGESTION": 1,
+      "BRIEF": 1,
+      "SECRET": 1
+    },
+    "SOUNDS": {
+      "REASONABLE": 1,
+      "LIKE": 1,
+      "VERY": 1
+    },
+    "THAT SOUNDS": {
+      "REASONABLE": 1,
+      "LIKE": 1,
+      "VERY": 1
+    },
+    "PLEASE": {
+      "CLARIFY": 1,
+      "SEND": 1,
+      "EXPLAIN": 1,
+      "UPDATE": 1,
+      "PROVIDE": 1,
+      "SHARE": 1,
+      "VERIFY": 1,
+      "KEEP": 1,
+      "CONSIDER": 1,
+      "RESPECT": 1,
+      "LOOK": 1,
+      "WAIT": 1,
+      "FORGIVE": 1,
+      "HELP": 1,
+      "STAY": 1,
+      "BE": 1
+    },
+    "CLARIFY": {
+      "YOUR": 1
+    },
+    "PLEASE CLARIFY": {
+      "YOUR": 1
+    },
+    "YOUR": {
+      "POINT": 1,
+      "PERSPECTIVE": 1,
+      "INPUT": 1,
+      "ASSESSMENT": 1,
+      "PROFESSIONAL": 1,
+      "THOUGHTS": 1,
+      "TEXT": 1,
+      "CHOICE": 1,
+      "WHOLE": 1,
+      "HANDS": 1,
+      "FACE": 1
+    },
+    "CLARIFY YOUR": {
+      "POINT": 1
+    },
+    "PLEASE CLARIFY YOUR": {
+      "POINT": 1
+    },
+    "UNDERSTAND": {
+      "YOUR": 1,
+      "THE": 1,
+      "IT": 1
+    },
+    "I UNDERSTAND": {
+      "YOUR": 1,
+      "THE": 1,
+      "IT": 1
+    },
+    "UNDERSTAND YOUR": {
+      "PERSPECTIVE": 1
+    },
+    "I UNDERSTAND YOUR": {
+      "PERSPECTIVE": 1
+    },
+    "WE": {
+      "SHOULD": 1,
+      "NEED": 1,
+      "CAN": 1,
+      "ARE": 1,
+      "MUST": 1,
+      "WILL": 1,
+      "MEET": 1,
+      "GOING": 1
+    },
+    "SHOULD": {
+      "CONSIDER": 1,
+      "BE": 1,
+      "FINALIZE": 1,
+      "WAIT": 1,
+      "SEEK": 1,
+      "ADJUST": 1,
+      "MAINTAIN": 1,
+      "OPTIMIZE": 1,
+      "GO": 1,
+      "I": 1
+    },
+    "WE SHOULD": {
+      "CONSIDER": 1,
+      "BE": 1,
+      "FINALIZE": 1,
+      "WAIT": 1,
+      "SEEK": 1,
+      "ADJUST": 1,
+      "MAINTAIN": 1,
+      "OPTIMIZE": 1,
+      "GO": 1
+    },
+    "CONSIDER": {
+      "THAT": 1,
+      "THE": 1
+    },
+    "SHOULD CONSIDER": {
+      "THAT": 1
+    },
+    "WE SHOULD CONSIDER": {
+      "THAT": 1
+    },
+    "GREAT": {
+      "IDEA": 1,
+      "PROGRESS": 1
+    },
+    "A GREAT": {
+      "IDEA": 1
+    },
+    "IS A GREAT": {
+      "IDEA": 1
+    },
+    "THAT IS A GREAT": {
+      "IDEA": 1
+    },
+    "DISAGREE": {
+      "WITH": 1
+    },
+    "I DISAGREE": {
+      "WITH": 1
+    },
+    "WITH": {
+      "THAT": 1,
+      "YOUR": 1,
+      "CAUTION": 1,
+      "YOU": 1,
+      "ME": 1
+    },
+    "DISAGREE WITH": {
+      "THAT": 1
+    },
+    "I DISAGREE WITH": {
+      "THAT": 1
+    },
+    "NEED": {
+      "A": 1,
+      "MORE": 1,
+      "TO": 1,
+      "SOME": 1,
+      "THE": 1,
+      "MEDICAL": 1,
+      "FRESH": 1,
+      "MY": 1
+    },
+    "WE NEED": {
+      "A": 1,
+      "MORE": 1,
+      "TO": 1
+    },
+    "NEED A": {
+      "BETTER": 1,
+      "CLEAR": 1,
+      "NAPKIN": 1,
+      "BLANKET": 1,
+      "NAP": 1,
+      "PEN": 1,
+      "HUG": 1,
+      "FRIEND": 1,
+      "TOWEL": 1
+    },
+    "WE NEED A": {
+      "BETTER": 1,
+      "CLEAR": 1
+    },
+    "BETTER": {
+      "PLAN": 1
+    },
+    "A BETTER": {
+      "PLAN": 1
+    },
+    "NEED A BETTER": {
+      "PLAN": 1
+    },
+    "WE NEED A BETTER": {
+      "PLAN": 1
+    },
+    "START": {
+      "THE": 1
+    },
+    "US START": {
+      "THE": 1
+    },
+    "LET US START": {
+      "THE": 1
+    },
+    "THE": {
+      "MEETING": 1,
+      "FINAL": 1,
+      "DOCUMENT": 1,
+      "DETAILS": 1,
+      "NEXT": 1,
+      "GOALS": 1,
+      "PROCESS": 1,
+      "STATUS": 1,
+      "MAIN": 1,
+      "APPROACH": 1,
+      "SCHEDULE": 1,
+      "CORRECT": 1,
+      "PROJECT": 1,
+      "SCOPE": 1,
+      "DATA": 1,
+      "BEST": 1,
+      "LEAD": 1,
+      "RISK": 1,
+      "TIMELINE": 1,
+      "SITUATION": 1,
+      "REPORT": 1,
+      "STANDARD": 1,
+      "ALTERNATIVES": 1,
+      "BIG": 1,
+      "FILES": 1,
+      "PERFORMANCE": 1,
+      "DEADLINE": 1,
+      "DESIRED": 1,
+      "RIGHT": 1,
+      "SCREEN": 1,
+      "LAYOUT": 1,
+      "RESULTS": 1,
+      "TOP": 1,
+      "FIRST": 1,
+      "SYSTEM": 1,
+      "SMOOTH": 1,
+      "GRAPH": 1,
+      "TREND": 1,
+      "SCROLL": 1,
+      "KEY": 1,
+      "INSTRUCTIONS": 1,
+      "INTERFACE": 1,
+      "FILE": 1,
+      "FOLDER": 1,
+      "CHANGES": 1,
+      "DISPLAY": 1,
+      "IMAGE": 1,
+      "CENTER": 1,
+      "ANIMATION": 1,
+      "PROGRESS": 1,
+      "CONNECTION": 1,
+      "OLD": 1,
+      "LINK": 1,
+      "BOX": 1,
+      "ENTER": 1,
+      "WINDOW": 1,
+      "APPLICATION": 1,
+      "DEMONSTRATION": 1,
+      "QUALITY": 1,
+      "BOTTOM": 1,
+      "DIFFERENT": 1,
+      "BRIGHTNESS": 1,
+      "TEXT": 1,
+      "HOME": 1,
+      "RED": 1,
+      "SIGNAL": 1,
+      "DEFAULT": 1,
+      "CURRENT": 1,
+      "UPDATE": 1,
+      "HARDWARE": 1,
+      "CABLE": 1,
+      "DEVICE": 1,
+      "INDICATOR": 1,
+      "ERROR": 1,
+      "ALTERNATIVE": 1,
+      "DESIGN": 1,
+      "DETAILED": 1,
+      "SIDE": 1,
+      "SEARCH": 1,
+      "CATEGORY": 1,
+      "LIST": 1,
+      "PREVIEW": 1,
+      "PRESENTATION": 1,
+      "LOGIN": 1,
+      "SECURITY": 1,
+      "ACCESS": 1,
+      "SUMMARY": 1,
+      "SELECTION": 1,
+      "TASK": 1,
+      "ICONS": 1,
+      "MENU": 1,
+      "LEFT": 1,
+      "BUTTON": 1,
+      "MACHINE": 1,
+      "SPEED": 1,
+      "PLAN": 1,
+      "VIEW": 1,
+      "WEATHER": 1,
+      "SUNSHINE": 1,
+      "CLOUDS": 1,
+      "BREAKFAST": 1,
+      "TEA": 1,
+      "PARK": 1,
+      "TREES": 1,
+      "MAIL": 1,
+      "NEW": 1,
+      "ENDING": 1,
+      "HELP": 1,
+      "SMALL": 1,
+      "WATER": 1,
+      "FOOD": 1,
+      "RESTROOM": 1,
+      "BATHROOM": 1,
+      "HEAT": 1,
+      "FAN": 1,
+      "REMOTE": 1,
+      "LIGHT": 1,
+      "EXIT": 1,
+      "FRONT": 1,
+      "DOOR": 1,
+      "WAY": 1,
+      "VOLUME": 1,
+      "PACE": 1,
+      "CAR": 1,
+      "PLACE": 1
+    },
+    "START THE": {
+      "MEETING": 1
+    },
+    "US START THE": {
+      "MEETING": 1
+    },
+    "LET US START THE": {
+      "MEETING": 1
+    },
+    "THIS": {
+      "THE": 1,
+      "IS": 1,
+      "REQUIRES": 1,
+      "TODAY": 1,
+      "SEEMS": 1,
+      "NOW": 1,
+      "MEETS": 1,
+      "PROCESS": 1,
+      "UP": 1,
+      "WORKS": 1,
+      "CLEARLY": 1,
+      "PART": 1,
+      "CHANGES": 1,
+      "CHART": 1,
+      "BUTTON": 1,
+      "SHOWS": 1,
+      "SAVES": 1,
+      "LESSON": 1,
+      "DRINK": 1,
+      "PLACE": 1,
+      "STORY": 1,
+      "TOGETHER": 1,
+      "ONE": 1,
+      "MESS": 1
+    },
+    "IS THIS": {
+      "THE": 1
+    },
+    "THIS THE": {
+      "FINAL": 1
+    },
+    "IS THIS THE": {
+      "FINAL": 1
+    },
+    "FINAL": {
+      "VERSION": 1,
+      "STEP": 1
+    },
+    "THE FINAL": {
+      "VERSION": 1,
+      "STEP": 1
+    },
+    "THIS THE FINAL": {
+      "VERSION": 1
+    },
+    "IS THIS THE FINAL": {
+      "VERSION": 1
+    },
+    "SEND": {
+      "THE": 1,
+      "ME": 1
+    },
+    "PLEASE SEND": {
+      "THE": 1
+    },
+    "SEND THE": {
+      "DOCUMENT": 1
+    },
+    "PLEASE SEND THE": {
+      "DOCUMENT": 1
+    },
+    "WILL": {
+      "CHECK": 1,
+      "HANDLE": 1,
+      "FOLLOW": 1,
+      "MANAGE": 1,
+      "TAKE": 1,
+      "PREPARE": 1,
+      "ORGANIZE": 1,
+      "FINISH": 1,
+      "FIX": 1,
+      "BE": 1,
+      "MISS": 1
+    },
+    "I WILL": {
+      "CHECK": 1,
+      "HANDLE": 1,
+      "FOLLOW": 1,
+      "MANAGE": 1,
+      "TAKE": 1,
+      "PREPARE": 1,
+      "ORGANIZE": 1,
+      "BE": 1,
+      "MISS": 1
+    },
+    "CHECK": {
+      "THE": 1,
+      "THAT": 1
+    },
+    "WILL CHECK": {
+      "THE": 1
+    },
+    "I WILL CHECK": {
+      "THE": 1
+    },
+    "CHECK THE": {
+      "DETAILS": 1,
+      "STATUS": 1,
+      "TOP": 1
+    },
+    "WILL CHECK THE": {
+      "DETAILS": 1
+    },
+    "I WILL CHECK THE": {
+      "DETAILS": 1
+    },
+    "VERY": {
+      "HELPFUL": 1,
+      "CAREFUL": 1,
+      "PROMISING": 1,
+      "IMPORTANT": 1,
+      "EASY": 1,
+      "CLEAN": 1,
+      "HIGH": 1,
+      "LEGIBLE": 1,
+      "STRONG": 1,
+      "EFFICIENT": 1,
+      "EXCITED": 1,
+      "HAPPY": 1,
+      "KIND": 1,
+      "WELCOME": 1,
+      "SORRY": 1,
+      "GLAD": 1,
+      "FUNNY": 1,
+      "INTERESTING": 1,
+      "CURIOUS": 1,
+      "PEACEFUL": 1,
+      "NICE": 1,
+      "GOOD": 1,
+      "CALM": 1,
+      "SURPRISED": 1,
+      "SIMPLE": 1,
+      "SURE": 1,
+      "THOUGHTFUL": 1,
+      "THIRSTY": 1,
+      "SICK": 1,
+      "COLD": 1,
+      "HOT": 1,
+      "TIRED": 1,
+      "STILL": 1,
+      "CAREFULLY": 1,
+      "FAR": 1,
+      "MESSY": 1
+    },
+    "IS VERY": {
+      "HELPFUL": 1,
+      "IMPORTANT": 1,
+      "EASY": 1,
+      "CLEAN": 1,
+      "HIGH": 1,
+      "LEGIBLE": 1,
+      "STRONG": 1,
+      "EFFICIENT": 1,
+      "KIND": 1,
+      "FUNNY": 1,
+      "INTERESTING": 1,
+      "PEACEFUL": 1,
+      "CALM": 1,
+      "SIMPLE": 1,
+      "THOUGHTFUL": 1,
+      "FAR": 1,
+      "MESSY": 1
+    },
+    "THAT IS VERY": {
+      "HELPFUL": 1,
+      "KIND": 1,
+      "FUNNY": 1,
+      "INTERESTING": 1,
+      "THOUGHTFUL": 1
+    },
+    "CAN": {
+      "MOVE": 1,
+      "YOU": 1
+    },
+    "WE CAN": {
+      "MOVE": 1
+    },
+    "MOVE": {
+      "FORWARD": 1,
+      "ON": 1
+    },
+    "CAN MOVE": {
+      "FORWARD": 1
+    },
+    "WE CAN MOVE": {
+      "FORWARD": 1
+    },
+    "FORWARD": {
+      "NOW": 1
+    },
+    "MOVE FORWARD": {
+      "NOW": 1
+    },
+    "CAN MOVE FORWARD": {
+      "NOW": 1
+    },
+    "WE CAN MOVE FORWARD": {
+      "NOW": 1
+    },
+    "WHAT IS": {
+      "THE": 1
+    },
+    "IS THE": {
+      "NEXT": 1,
+      "MAIN": 1,
+      "CORRECT": 1,
+      "BEST": 1,
+      "STANDARD": 1,
+      "DESIRED": 1,
+      "DEFAULT": 1,
+      "LOGIN": 1,
+      "FINAL": 1,
+      "PLAN": 1,
+      "WATER": 1,
+      "FOOD": 1,
+      "RESTROOM": 1,
+      "EXIT": 1,
+      "CAR": 1,
+      "PLACE": 1
+    },
+    "WHAT IS THE": {
+      "NEXT": 1,
+      "PLAN": 1
+    },
+    "NEXT": {
+      "STEP": 1,
+      "SLIDE": 1,
+      "VIEW": 1
+    },
+    "THE NEXT": {
+      "STEP": 1,
+      "VIEW": 1
+    },
+    "IS THE NEXT": {
+      "STEP": 1
+    },
+    "WHAT IS THE NEXT": {
+      "STEP": 1
+    },
+    "REVIEW": {
+      "THE": 1
+    },
+    "US REVIEW": {
+      "THE": 1
+    },
+    "LET US REVIEW": {
+      "THE": 1
+    },
+    "REVIEW THE": {
+      "GOALS": 1,
+      "SUMMARY": 1
+    },
+    "US REVIEW THE": {
+      "GOALS": 1
+    },
+    "LET US REVIEW THE": {
+      "GOALS": 1
+    },
+    "APPRECIATE": {
+      "YOUR": 1,
+      "THE": 1
+    },
+    "I APPRECIATE": {
+      "YOUR": 1,
+      "THE": 1
+    },
+    "APPRECIATE YOUR": {
+      "INPUT": 1
+    },
+    "I APPRECIATE YOUR": {
+      "INPUT": 1
+    },
+    "THIS IS": {
+      "A": 1,
+      "THE": 1,
+      "VERY": 1,
+      "HIGHLY": 1,
+      "TRULY": 1,
+      "ABSOLUTELY": 1
+    },
+    "THIS IS A": {
+      "TOP": 1,
+      "PRODUCTIVE": 1,
+      "COMPREHENSIVE": 1,
+      "NEW": 1,
+      "SURPRISE": 1,
+      "GIFT": 1
+    },
+    "TOP": {
+      "PRIORITY": 1,
+      "BUTTON": 1,
+      "RIGHT": 1
+    },
+    "A TOP": {
+      "PRIORITY": 1
+    },
+    "IS A TOP": {
+      "PRIORITY": 1
+    },
+    "THIS IS A TOP": {
+      "PRIORITY": 1
+    },
+    "BE": {
+      "VERY": 1,
+      "EFFICIENT": 1,
+      "CONSISTENT": 1,
+      "THERE": 1,
+      "FINE": 1
+    },
+    "SHOULD BE": {
+      "VERY": 1
+    },
+    "WE SHOULD BE": {
+      "VERY": 1
+    },
+    "BE VERY": {
+      "CAREFUL": 1,
+      "STILL": 1
+    },
+    "SHOULD BE VERY": {
+      "CAREFUL": 1
+    },
+    "WE SHOULD BE VERY": {
+      "CAREFUL": 1
+    },
+    "MAKES": {
+      "PERFECT": 1
+    },
+    "THAT MAKES": {
+      "PERFECT": 1
+    },
+    "PERFECT": {
+      "SENSE": 1
+    },
+    "MAKES PERFECT": {
+      "SENSE": 1
+    },
+    "THAT MAKES PERFECT": {
+      "SENSE": 1
+    },
+    "AM": {
+      "NOT": 1,
+      "READY": 1,
+      "IN": 1,
+      "CONFIDENT": 1,
+      "VERY": 1,
+      "TIRED": 1,
+      "QUITE": 1,
+      "COMING": 1,
+      "LAUGHING": 1,
+      "LISTENING": 1,
+      "SO": 1,
+      "FULL": 1,
+      "ALMOST": 1,
+      "A": 1,
+      "RIGHT": 1,
+      "HUNGRY": 1,
+      "DONE": 1
+    },
+    "I AM": {
+      "NOT": 1,
+      "READY": 1,
+      "IN": 1,
+      "CONFIDENT": 1,
+      "VERY": 1,
+      "TIRED": 1,
+      "QUITE": 1,
+      "COMING": 1,
+      "LAUGHING": 1,
+      "LISTENING": 1,
+      "SO": 1,
+      "FULL": 1,
+      "ALMOST": 1,
+      "A": 1,
+      "RIGHT": 1,
+      "HUNGRY": 1,
+      "DONE": 1
+    },
+    "NOT": {
+      "QUITE": 1,
+      "WORRY": 1,
+      "ALONE": 1,
+      "GO": 1,
+      "TELL": 1,
+      "THAT": 1
+    },
+    "AM NOT": {
+      "QUITE": 1
+    },
+    "I AM NOT": {
+      "QUITE": 1
+    },
+    "QUITE": {
+      "SURE": 1,
+      "BUSY": 1,
+      "ALRIGHT": 1,
+      "UNEXPECTED": 1,
+      "LOST": 1
+    },
+    "NOT QUITE": {
+      "SURE": 1
+    },
+    "AM NOT QUITE": {
+      "SURE": 1
+    },
+    "I AM NOT QUITE": {
+      "SURE": 1
+    },
+    "LOOK": {
+      "AT": 1
+    },
+    "US LOOK": {
+      "AT": 1
+    },
+    "LET US LOOK": {
+      "AT": 1
+    },
+    "AT": {
+      "FACTS": 1,
+      "THE": 1,
+      "THIS": 1,
+      "ALL": 1,
+      "ME": 1
+    },
+    "LOOK AT": {
+      "FACTS": 1,
+      "THE": 1,
+      "THIS": 1,
+      "ME": 1
+    },
+    "US LOOK AT": {
+      "FACTS": 1
+    },
+    "LET US LOOK AT": {
+      "FACTS": 1
+    },
+    "EXPLAIN": {
+      "THE": 1,
+      "IT": 1
+    },
+    "PLEASE EXPLAIN": {
+      "THE": 1,
+      "IT": 1
+    },
+    "EXPLAIN THE": {
+      "PROCESS": 1
+    },
+    "PLEASE EXPLAIN THE": {
+      "PROCESS": 1
+    },
+    "MORE": {
+      "INFORMATION": 1,
+      "THOUGHT": 1,
+      "ADVICE": 1
+    },
+    "NEED MORE": {
+      "INFORMATION": 1
+    },
+    "WE NEED MORE": {
+      "INFORMATION": 1
+    },
+    "AN": {
+      "EXCELLENT": 1,
+      "INTERESTING": 1,
+      "INFORMED": 1
+    },
+    "IS AN": {
+      "EXCELLENT": 1,
+      "INTERESTING": 1,
+      "INFORMED": 1
+    },
+    "THAT IS AN": {
+      "EXCELLENT": 1,
+      "INTERESTING": 1,
+      "INFORMED": 1
+    },
+    "EXCELLENT": {
+      "OBSERVATION": 1
+    },
+    "AN EXCELLENT": {
+      "OBSERVATION": 1
+    },
+    "IS AN EXCELLENT": {
+      "OBSERVATION": 1
+    },
+    "THAT IS AN EXCELLENT": {
+      "OBSERVATION": 1
+    },
+    "AGREE": {
+      "WITH": 1
+    },
+    "I AGREE": {
+      "WITH": 1
+    },
+    "AGREE WITH": {
+      "YOUR": 1,
+      "YOU": 1
+    },
+    "I AGREE WITH": {
+      "YOUR": 1,
+      "YOU": 1
+    },
+    "WITH YOUR": {
+      "ASSESSMENT": 1
+    },
+    "AGREE WITH YOUR": {
+      "ASSESSMENT": 1
+    },
+    "I AGREE WITH YOUR": {
+      "ASSESSMENT": 1
+    },
+    "STAY": {
+      "ON": 1,
+      "LONGER": 1,
+      "WITH": 1
+    },
+    "US STAY": {
+      "ON": 1,
+      "LONGER": 1
+    },
+    "LET US STAY": {
+      "ON": 1,
+      "LONGER": 1
+    },
+    "ON": {
+      "TRACK": 1,
+      "THE": 1,
+      "NOW": 1
+    },
+    "STAY ON": {
+      "TRACK": 1
+    },
+    "US STAY ON": {
+      "TRACK": 1
+    },
+    "LET US STAY ON": {
+      "TRACK": 1
+    },
+    "REQUIRES": {
+      "MORE": 1
+    },
+    "THIS REQUIRES": {
+      "MORE": 1
+    },
+    "REQUIRES MORE": {
+      "THOUGHT": 1
+    },
+    "THIS REQUIRES MORE": {
+      "THOUGHT": 1
+    },
+    "BRIEF": {
+      "QUESTION": 1
+    },
+    "A BRIEF": {
+      "QUESTION": 1
+    },
+    "HAVE A BRIEF": {
+      "QUESTION": 1
+    },
+    "I HAVE A BRIEF": {
+      "QUESTION": 1
+    },
+    "UPDATE": {
+      "THE": 1,
+      "IS": 1
+    },
+    "PLEASE UPDATE": {
+      "THE": 1
+    },
+    "UPDATE THE": {
+      "STATUS": 1
+    },
+    "PLEASE UPDATE THE": {
+      "STATUS": 1
+    },
+    "FINALIZE": {
+      "THIS": 1
+    },
+    "SHOULD FINALIZE": {
+      "THIS": 1
+    },
+    "WE SHOULD FINALIZE": {
+      "THIS": 1
+    },
+    "FINALIZE THIS": {
+      "TODAY": 1
+    },
+    "SHOULD FINALIZE THIS": {
+      "TODAY": 1
+    },
+    "WE SHOULD FINALIZE THIS": {
+      "TODAY": 1
+    },
+    "FAIR": {
+      "CRITIQUE": 1
+    },
+    "A FAIR": {
+      "CRITIQUE": 1
+    },
+    "IS A FAIR": {
+      "CRITIQUE": 1
+    },
+    "THAT IS A FAIR": {
+      "CRITIQUE": 1
+    },
+    "HANDLE": {
+      "THAT": 1
+    },
+    "WILL HANDLE": {
+      "THAT": 1
+    },
+    "I WILL HANDLE": {
+      "THAT": 1
+    },
+    "HANDLE THAT": {
+      "TASK": 1
+    },
+    "WILL HANDLE THAT": {
+      "TASK": 1
+    },
+    "I WILL HANDLE THAT": {
+      "TASK": 1
+    },
+    "COORDINATE": {
+      "OUR": 1
+    },
+    "US COORDINATE": {
+      "OUR": 1
+    },
+    "LET US COORDINATE": {
+      "OUR": 1
+    },
+    "OUR": {
+      "EFFORTS": 1,
+      "REQUIREMENTS": 1,
+      "FOCUS": 1
+    },
+    "COORDINATE OUR": {
+      "EFFORTS": 1
+    },
+    "US COORDINATE OUR": {
+      "EFFORTS": 1
+    },
+    "LET US COORDINATE OUR": {
+      "EFFORTS": 1
+    },
+    "THIS IS THE": {
+      "MAIN": 1,
+      "CORRECT": 1,
+      "BEST": 1,
+      "STANDARD": 1,
+      "DESIRED": 1,
+      "DEFAULT": 1,
+      "LOGIN": 1,
+      "FINAL": 1
+    },
+    "MAIN": {
+      "OBJECTIVE": 1,
+      "MENU": 1,
+      "DASHBOARD": 1
+    },
+    "THE MAIN": {
+      "OBJECTIVE": 1,
+      "MENU": 1,
+      "DASHBOARD": 1
+    },
+    "IS THE MAIN": {
+      "OBJECTIVE": 1,
+      "DASHBOARD": 1
+    },
+    "THIS IS THE MAIN": {
+      "OBJECTIVE": 1,
+      "DASHBOARD": 1
+    },
+    "VALUE": {
+      "YOUR": 1
+    },
+    "I VALUE": {
+      "YOUR": 1
+    },
+    "VALUE YOUR": {
+      "PROFESSIONAL": 1
+    },
+    "I VALUE YOUR": {
+      "PROFESSIONAL": 1
+    },
+    "PROFESSIONAL": {
+      "OPINION": 1
+    },
+    "YOUR PROFESSIONAL": {
+      "OPINION": 1
+    },
+    "VALUE YOUR PROFESSIONAL": {
+      "OPINION": 1
+    },
+    "I VALUE YOUR PROFESSIONAL": {
+      "OPINION": 1
+    },
+    "CLEAR": {
+      "SOLUTION": 1,
+      "BENEFIT": 1
+    },
+    "A CLEAR": {
+      "SOLUTION": 1,
+      "BENEFIT": 1
+    },
+    "NEED A CLEAR": {
+      "SOLUTION": 1
+    },
+    "WE NEED A CLEAR": {
+      "SOLUTION": 1
+    },
+    "SIGNIFICANT": {
+      "IMPROVEMENT": 1
+    },
+    "A SIGNIFICANT": {
+      "IMPROVEMENT": 1
+    },
+    "IS A SIGNIFICANT": {
+      "IMPROVEMENT": 1
+    },
+    "THAT IS A SIGNIFICANT": {
+      "IMPROVEMENT": 1
+    },
+    "PROVIDE": {
+      "SOME": 1
+    },
+    "PLEASE PROVIDE": {
+      "SOME": 1
+    },
+    "SOME": {
+      "FEEDBACK": 1,
+      "MUSIC": 1,
+      "SLEEP": 1,
+      "SWEET": 1,
+      "WATER": 1,
+      "FOOD": 1,
+      "MEDICINE": 1,
+      "ASSISTANCE": 1,
+      "PAPER": 1,
+      "ADVICE": 1,
+      "QUIET": 1
+    },
+    "PROVIDE SOME": {
+      "FEEDBACK": 1,
+      "FOOD": 1
+    },
+    "PLEASE PROVIDE SOME": {
+      "FEEDBACK": 1,
+      "FOOD": 1
+    },
+    "FOLLOW": {
+      "UP": 1,
+      "THE": 1
+    },
+    "WILL FOLLOW": {
+      "UP": 1
+    },
+    "I WILL FOLLOW": {
+      "UP": 1
+    },
+    "UP": {
+      "LATER": 1,
+      "EARLY": 1,
+      "THE": 1,
+      "NOW": 1
+    },
+    "FOLLOW UP": {
+      "LATER": 1
+    },
+    "WILL FOLLOW UP": {
+      "LATER": 1
+    },
+    "I WILL FOLLOW UP": {
+      "LATER": 1
+    },
+    "SIMPLIFY": {
+      "THE": 1
+    },
+    "US SIMPLIFY": {
+      "THE": 1
+    },
+    "LET US SIMPLIFY": {
+      "THE": 1
+    },
+    "SIMPLIFY THE": {
+      "APPROACH": 1
+    },
+    "US SIMPLIFY THE": {
+      "APPROACH": 1
+    },
+    "LET US SIMPLIFY THE": {
+      "APPROACH": 1
+    },
+    "SEEMS": {
+      "VERY": 1
+    },
+    "THIS SEEMS": {
+      "VERY": 1
+    },
+    "SEEMS VERY": {
+      "PROMISING": 1
+    },
+    "THIS SEEMS VERY": {
+      "PROMISING": 1
+    },
+    "WAIT": {
+      "FOR": 1,
+      "A": 1
+    },
+    "SHOULD WAIT": {
+      "FOR": 1
+    },
+    "WE SHOULD WAIT": {
+      "FOR": 1
+    },
+    "FOR": {
+      "RESULTS": 1,
+      "THE": 1,
+      "WATCHING": 1,
+      "ME": 1,
+      "SOME": 1,
+      "HELPING": 1
+    },
+    "WAIT FOR": {
+      "RESULTS": 1,
+      "THE": 1,
+      "ME": 1
+    },
+    "SHOULD WAIT FOR": {
+      "RESULTS": 1
+    },
+    "WE SHOULD WAIT FOR": {
+      "RESULTS": 1
+    },
+    "LOGICAL": {
+      "CONCLUSION": 1
+    },
+    "A LOGICAL": {
+      "CONCLUSION": 1
+    },
+    "IS A LOGICAL": {
+      "CONCLUSION": 1
+    },
+    "THAT IS A LOGICAL": {
+      "CONCLUSION": 1
+    },
+    "SEE A": {
+      "POTENTIAL": 1,
+      "BIRD": 1
+    },
+    "I SEE A": {
+      "POTENTIAL": 1,
+      "BIRD": 1
+    },
+    "POTENTIAL": {
+      "ISSUE": 1
+    },
+    "A POTENTIAL": {
+      "ISSUE": 1
+    },
+    "SEE A POTENTIAL": {
+      "ISSUE": 1
+    },
+    "I SEE A POTENTIAL": {
+      "ISSUE": 1
+    },
+    "ADDRESS": {
+      "THIS": 1
+    },
+    "US ADDRESS": {
+      "THIS": 1
+    },
+    "LET US ADDRESS": {
+      "THIS": 1
+    },
+    "ADDRESS THIS": {
+      "NOW": 1
+    },
+    "US ADDRESS THIS": {
+      "NOW": 1
+    },
+    "LET US ADDRESS THIS": {
+      "NOW": 1
+    },
+    "SHARE": {
+      "YOUR": 1,
+      "THE": 1
+    },
+    "PLEASE SHARE": {
+      "YOUR": 1
+    },
+    "SHARE YOUR": {
+      "THOUGHTS": 1
+    },
+    "PLEASE SHARE YOUR": {
+      "THOUGHTS": 1
+    },
+    "ARE": {
+      "MAKING": 1,
+      "ON": 1,
+      "YOU": 1,
+      "WELL": 1,
+      "WE": 1,
+      "VERY": 1,
+      "PRETTY": 1,
+      "TALL": 1,
+      "RIGHT": 1,
+      "NOT": 1,
+      "IN": 1,
+      "MY": 1,
+      "RUNNING": 1
+    },
+    "WE ARE": {
+      "MAKING": 1,
+      "ON": 1,
+      "IN": 1,
+      "RUNNING": 1
+    },
+    "MAKING": {
+      "GREAT": 1
+    },
+    "ARE MAKING": {
+      "GREAT": 1
+    },
+    "WE ARE MAKING": {
+      "GREAT": 1
+    },
+    "MAKING GREAT": {
+      "PROGRESS": 1
+    },
+    "ARE MAKING GREAT": {
+      "PROGRESS": 1
+    },
+    "WE ARE MAKING GREAT": {
+      "PROGRESS": 1
+    },
+    "SOLID": {
+      "PLAN": 1
+    },
+    "A SOLID": {
+      "PLAN": 1
+    },
+    "IS A SOLID": {
+      "PLAN": 1
+    },
+    "THAT IS A SOLID": {
+      "PLAN": 1
+    },
+    "READY": {
+      "TO": 1,
+      "NOW": 1
+    },
+    "AM READY": {
+      "TO": 1,
+      "NOW": 1
+    },
+    "I AM READY": {
+      "TO": 1,
+      "NOW": 1
+    },
+    "TO": {
+      "BEGIN": 1,
+      "FOCUS": 1,
+      "BE": 1,
+      "COMMUNICATE": 1,
+      "THE": 1,
+      "THIS": 1,
+      "LEARN": 1,
+      "YOU": 1,
+      "SIT": 1,
+      "GO": 1,
+      "WRITE": 1,
+      "WALK": 1,
+      "ME": 1
+    },
+    "READY TO": {
+      "BEGIN": 1
+    },
+    "AM READY TO": {
+      "BEGIN": 1
+    },
+    "I AM READY TO": {
+      "BEGIN": 1
+    },
+    "CONFIRM": {
+      "THE": 1
+    },
+    "US CONFIRM": {
+      "THE": 1
+    },
+    "LET US CONFIRM": {
+      "THE": 1
+    },
+    "CONFIRM THE": {
+      "SCHEDULE": 1,
+      "SELECTION": 1
+    },
+    "US CONFIRM THE": {
+      "SCHEDULE": 1
+    },
+    "LET US CONFIRM THE": {
+      "SCHEDULE": 1
+    },
+    "CORRECT": {
+      "WAY": 1
+    },
+    "THE CORRECT": {
+      "WAY": 1
+    },
+    "IS THE CORRECT": {
+      "WAY": 1
+    },
+    "THIS IS THE CORRECT": {
+      "WAY": 1
+    },
+    "NEED TO": {
+      "FOCUS": 1,
+      "BE": 1,
+      "COMMUNICATE": 1,
+      "SIT": 1,
+      "GO": 1
+    },
+    "WE NEED TO": {
+      "FOCUS": 1,
+      "BE": 1,
+      "COMMUNICATE": 1
+    },
+    "FOCUS": {
+      "MORE": 1,
+      "ON": 1
+    },
+    "TO FOCUS": {
+      "MORE": 1
+    },
+    "NEED TO FOCUS": {
+      "MORE": 1
+    },
+    "WE NEED TO FOCUS": {
+      "MORE": 1
+    },
+    "TOUGH": {
+      "CHALLENGE": 1
+    },
+    "A TOUGH": {
+      "CHALLENGE": 1
+    },
+    "IS A TOUGH": {
+      "CHALLENGE": 1
+    },
+    "THAT IS A TOUGH": {
+      "CHALLENGE": 1
+    },
+    "MANAGE": {
+      "THE": 1
+    },
+    "WILL MANAGE": {
+      "THE": 1
+    },
+    "I WILL MANAGE": {
+      "THE": 1
+    },
+    "MANAGE THE": {
+      "PROJECT": 1
+    },
+    "WILL MANAGE THE": {
+      "PROJECT": 1
+    },
+    "I WILL MANAGE THE": {
+      "PROJECT": 1
+    },
+    "DEFINE": {
+      "THE": 1
+    },
+    "US DEFINE": {
+      "THE": 1
+    },
+    "LET US DEFINE": {
+      "THE": 1
+    },
+    "DEFINE THE": {
+      "SCOPE": 1
+    },
+    "US DEFINE THE": {
+      "SCOPE": 1
+    },
+    "LET US DEFINE THE": {
+      "SCOPE": 1
+    },
+    "THIS IS VERY": {
+      "IMPORTANT": 1,
+      "EASY": 1
+    },
+    "IMPORTANT": {
+      "WORK": 1
+    },
+    "VERY IMPORTANT": {
+      "WORK": 1
+    },
+    "IS VERY IMPORTANT": {
+      "WORK": 1
+    },
+    "THIS IS VERY IMPORTANT": {
+      "WORK": 1
+    },
+    "VERIFY": {
+      "THE": 1
+    },
+    "PLEASE VERIFY": {
+      "THE": 1
+    },
+    "VERIFY THE": {
+      "DATA": 1
+    },
+    "PLEASE VERIFY THE": {
+      "DATA": 1
+    },
+    "SEEK": {
+      "MORE": 1
+    },
+    "SHOULD SEEK": {
+      "MORE": 1
+    },
+    "WE SHOULD SEEK": {
+      "MORE": 1
+    },
+    "SEEK MORE": {
+      "ADVICE": 1
+    },
+    "SHOULD SEEK MORE": {
+      "ADVICE": 1
+    },
+    "WE SHOULD SEEK MORE": {
+      "ADVICE": 1
+    },
+    "WISE": {
+      "CHOICE": 1
+    },
+    "A WISE": {
+      "CHOICE": 1
+    },
+    "IS A WISE": {
+      "CHOICE": 1
+    },
+    "THAT IS A WISE": {
+      "CHOICE": 1
+    },
+    "IN": {
+      "FULL": 1,
+      "THIS": 1,
+      "ON": 1,
+      "THE": 1
+    },
+    "AM IN": {
+      "FULL": 1
+    },
+    "I AM IN": {
+      "FULL": 1
+    },
+    "FULL": {
+      "AGREEMENT": 1,
+      "NOW": 1
+    },
+    "IN FULL": {
+      "AGREEMENT": 1
+    },
+    "AM IN FULL": {
+      "AGREEMENT": 1
+    },
+    "I AM IN FULL": {
+      "AGREEMENT": 1
+    },
+    "EXPLORE": {
+      "OTHER": 1,
+      "THE": 1
+    },
+    "US EXPLORE": {
+      "OTHER": 1
+    },
+    "LET US EXPLORE": {
+      "OTHER": 1
+    },
+    "OTHER": {
+      "OPTIONS": 1
+    },
+    "EXPLORE OTHER": {
+      "OPTIONS": 1
+    },
+    "US EXPLORE OTHER": {
+      "OPTIONS": 1
+    },
+    "LET US EXPLORE OTHER": {
+      "OPTIONS": 1
+    },
+    "BEST": {
+      "STRATEGY": 1
+    },
+    "THE BEST": {
+      "STRATEGY": 1
+    },
+    "IS THE BEST": {
+      "STRATEGY": 1
+    },
+    "THIS IS THE BEST": {
+      "STRATEGY": 1
+    },
+    "TO BE": {
+      "EFFICIENT": 1
+    },
+    "NEED TO BE": {
+      "EFFICIENT": 1
+    },
+    "WE NEED TO BE": {
+      "EFFICIENT": 1
+    },
+    "INTERESTING": {
+      "CONCEPT": 1
+    },
+    "AN INTERESTING": {
+      "CONCEPT": 1
+    },
+    "IS AN INTERESTING": {
+      "CONCEPT": 1
+    },
+    "THAT IS AN INTERESTING": {
+      "CONCEPT": 1
+    },
+    "TAKE": {
+      "THE": 1,
+      "IT": 1
+    },
+    "WILL TAKE": {
+      "THE": 1
+    },
+    "I WILL TAKE": {
+      "THE": 1
+    },
+    "TAKE THE": {
+      "LEAD": 1
+    },
+    "WILL TAKE THE": {
+      "LEAD": 1
+    },
+    "I WILL TAKE THE": {
+      "LEAD": 1
+    },
+    "MINIMIZE": {
+      "THE": 1
+    },
+    "US MINIMIZE": {
+      "THE": 1
+    },
+    "LET US MINIMIZE": {
+      "THE": 1
+    },
+    "MINIMIZE THE": {
+      "RISK": 1
+    },
+    "US MINIMIZE THE": {
+      "RISK": 1
+    },
+    "LET US MINIMIZE THE": {
+      "RISK": 1
+    },
+    "MEETS": {
+      "OUR": 1
+    },
+    "THIS MEETS": {
+      "OUR": 1
+    },
+    "MEETS OUR": {
+      "REQUIREMENTS": 1
+    },
+    "THIS MEETS OUR": {
+      "REQUIREMENTS": 1
+    },
+    "KEEP": {
+      "ME": 1,
+      "THE": 1
+    },
+    "PLEASE KEEP": {
+      "ME": 1
+    },
+    "ME": {
+      "INFORMED": 1,
+      "SHOW": 1,
+      "CHECK": 1,
+      "LATER": 1,
+      "A": 1,
+      "NOW": 1,
+      "THE": 1,
+      "UP": 1,
+      "SOME": 1,
+      "WHAT": 1
+    },
+    "KEEP ME": {
+      "INFORMED": 1
+    },
+    "PLEASE KEEP ME": {
+      "INFORMED": 1
+    },
+    "ADJUST": {
+      "THE": 1
+    },
+    "SHOULD ADJUST": {
+      "THE": 1
+    },
+    "WE SHOULD ADJUST": {
+      "THE": 1
+    },
+    "ADJUST THE": {
+      "TIMELINE": 1,
+      "BRIGHTNESS": 1
+    },
+    "SHOULD ADJUST THE": {
+      "TIMELINE": 1
+    },
+    "WE SHOULD ADJUST THE": {
+      "TIMELINE": 1
+    },
+    "IS A CLEAR": {
+      "BENEFIT": 1
+    },
+    "THAT IS A CLEAR": {
+      "BENEFIT": 1
+    },
+    "UNDERSTAND THE": {
+      "SITUATION": 1
+    },
+    "I UNDERSTAND THE": {
+      "SITUATION": 1
+    },
+    "WORK": {
+      "TOGETHER": 1
+    },
+    "US WORK": {
+      "TOGETHER": 1
+    },
+    "LET US WORK": {
+      "TOGETHER": 1
+    },
+    "HIGHLY": {
+      "EFFECTIVE": 1
+    },
+    "IS HIGHLY": {
+      "EFFECTIVE": 1
+    },
+    "THIS IS HIGHLY": {
+      "EFFECTIVE": 1
+    },
+    "MUST": {
+      "BE": 1
+    },
+    "WE MUST": {
+      "BE": 1
+    },
+    "MUST BE": {
+      "CONSISTENT": 1
+    },
+    "WE MUST BE": {
+      "CONSISTENT": 1
+    },
+    "NOTABLE": {
+      "CHANGE": 1
+    },
+    "A NOTABLE": {
+      "CHANGE": 1
+    },
+    "IS A NOTABLE": {
+      "CHANGE": 1
+    },
+    "THAT IS A NOTABLE": {
+      "CHANGE": 1
+    },
+    "PREPARE": {
+      "THE": 1
+    },
+    "WILL PREPARE": {
+      "THE": 1
+    },
+    "I WILL PREPARE": {
+      "THE": 1
+    },
+    "PREPARE THE": {
+      "REPORT": 1
+    },
+    "WILL PREPARE THE": {
+      "REPORT": 1
+    },
+    "I WILL PREPARE THE": {
+      "REPORT": 1
+    },
+    "REACH": {
+      "A": 1
+    },
+    "US REACH": {
+      "A": 1
+    },
+    "LET US REACH": {
+      "A": 1
+    },
+    "REACH A": {
+      "CONSENSUS": 1
+    },
+    "US REACH A": {
+      "CONSENSUS": 1
+    },
+    "LET US REACH A": {
+      "CONSENSUS": 1
+    },
+    "STANDARD": {
+      "PROCEDURE": 1
+    },
+    "THE STANDARD": {
+      "PROCEDURE": 1
+    },
+    "IS THE STANDARD": {
+      "PROCEDURE": 1
+    },
+    "THIS IS THE STANDARD": {
+      "PROCEDURE": 1
+    },
+    "PLEASE CONSIDER": {
+      "THE": 1
+    },
+    "CONSIDER THE": {
+      "ALTERNATIVES": 1
+    },
+    "PLEASE CONSIDER THE": {
+      "ALTERNATIVES": 1
+    },
+    "MAINTAIN": {
+      "OUR": 1
+    },
+    "SHOULD MAINTAIN": {
+      "OUR": 1
+    },
+    "WE SHOULD MAINTAIN": {
+      "OUR": 1
+    },
+    "MAINTAIN OUR": {
+      "FOCUS": 1
+    },
+    "SHOULD MAINTAIN OUR": {
+      "FOCUS": 1
+    },
+    "WE SHOULD MAINTAIN OUR": {
+      "FOCUS": 1
+    },
+    "VITAL": {
+      "POINT": 1
+    },
+    "A VITAL": {
+      "POINT": 1
+    },
+    "IS A VITAL": {
+      "POINT": 1
+    },
+    "THAT IS A VITAL": {
+      "POINT": 1
+    },
+    "SEE THE": {
+      "BIG": 1,
+      "RESULTS": 1,
+      "PROGRESS": 1,
+      "DETAILED": 1
+    },
+    "I SEE THE": {
+      "BIG": 1
+    },
+    "BIG": {
+      "PICTURE": 1
+    },
+    "THE BIG": {
+      "PICTURE": 1
+    },
+    "SEE THE BIG": {
+      "PICTURE": 1
+    },
+    "I SEE THE BIG": {
+      "PICTURE": 1
+    },
+    "PROCEED": {
+      "WITH": 1
+    },
+    "US PROCEED": {
+      "WITH": 1
+    },
+    "LET US PROCEED": {
+      "WITH": 1
+    },
+    "PROCEED WITH": {
+      "CAUTION": 1
+    },
+    "US PROCEED WITH": {
+      "CAUTION": 1
+    },
+    "LET US PROCEED WITH": {
+      "CAUTION": 1
+    },
+    "PRODUCTIVE": {
+      "SESSION": 1
+    },
+    "A PRODUCTIVE": {
+      "SESSION": 1
+    },
+    "IS A PRODUCTIVE": {
+      "SESSION": 1
+    },
+    "THIS IS A PRODUCTIVE": {
+      "SESSION": 1
+    },
+    "COMMUNICATE": {
+      "BETTER": 1
+    },
+    "TO COMMUNICATE": {
+      "BETTER": 1
+    },
+    "NEED TO COMMUNICATE": {
+      "BETTER": 1
+    },
+    "WE NEED TO COMMUNICATE": {
+      "BETTER": 1
+    },
+    "DISTINCT": {
+      "ADVANTAGE": 1
+    },
+    "A DISTINCT": {
+      "ADVANTAGE": 1
+    },
+    "IS A DISTINCT": {
+      "ADVANTAGE": 1
+    },
+    "THAT IS A DISTINCT": {
+      "ADVANTAGE": 1
+    },
+    "ORGANIZE": {
+      "THE": 1
+    },
+    "WILL ORGANIZE": {
+      "THE": 1
+    },
+    "I WILL ORGANIZE": {
+      "THE": 1
+    },
+    "ORGANIZE THE": {
+      "FILES": 1
+    },
+    "WILL ORGANIZE THE": {
+      "FILES": 1
+    },
+    "I WILL ORGANIZE THE": {
+      "FILES": 1
+    },
+    "EVALUATE": {
+      "THE": 1
+    },
+    "US EVALUATE": {
+      "THE": 1
+    },
+    "LET US EVALUATE": {
+      "THE": 1
+    },
+    "EVALUATE THE": {
+      "PERFORMANCE": 1
+    },
+    "US EVALUATE THE": {
+      "PERFORMANCE": 1
+    },
+    "LET US EVALUATE THE": {
+      "PERFORMANCE": 1
+    },
+    "COMPREHENSIVE": {
+      "GUIDE": 1
+    },
+    "A COMPREHENSIVE": {
+      "GUIDE": 1
+    },
+    "IS A COMPREHENSIVE": {
+      "GUIDE": 1
+    },
+    "THIS IS A COMPREHENSIVE": {
+      "GUIDE": 1
+    },
+    "RESPECT": {
+      "THE": 1
+    },
+    "PLEASE RESPECT": {
+      "THE": 1
+    },
+    "RESPECT THE": {
+      "DEADLINE": 1
+    },
+    "PLEASE RESPECT THE": {
+      "DEADLINE": 1
+    },
+    "OPTIMIZE": {
+      "THIS": 1
+    },
+    "SHOULD OPTIMIZE": {
+      "THIS": 1
+    },
+    "WE SHOULD OPTIMIZE": {
+      "THIS": 1
+    },
+    "OPTIMIZE THIS": {
+      "PROCESS": 1
+    },
+    "SHOULD OPTIMIZE THIS": {
+      "PROCESS": 1
+    },
+    "WE SHOULD OPTIMIZE THIS": {
+      "PROCESS": 1
+    },
+    "INFORMED": {
+      "DECISION": 1
+    },
+    "AN INFORMED": {
+      "DECISION": 1
+    },
+    "IS AN INFORMED": {
+      "DECISION": 1
+    },
+    "THAT IS AN INFORMED": {
+      "DECISION": 1
+    },
+    "CONFIDENT": {
+      "IN": 1
+    },
+    "AM CONFIDENT": {
+      "IN": 1
+    },
+    "I AM CONFIDENT": {
+      "IN": 1
+    },
+    "CONFIDENT IN": {
+      "THIS": 1
+    },
+    "AM CONFIDENT IN": {
+      "THIS": 1
+    },
+    "I AM CONFIDENT IN": {
+      "THIS": 1
+    },
+    "WRAP": {
+      "THIS": 1
+    },
+    "US WRAP": {
+      "THIS": 1
+    },
+    "LET US WRAP": {
+      "THIS": 1
+    },
+    "WRAP THIS": {
+      "UP": 1
+    },
+    "US WRAP THIS": {
+      "UP": 1
+    },
+    "LET US WRAP THIS": {
+      "UP": 1
+    },
+    "DESIRED": {
+      "OUTCOME": 1
+    },
+    "THE DESIRED": {
+      "OUTCOME": 1
+    },
+    "IS THE DESIRED": {
+      "OUTCOME": 1
+    },
+    "THIS IS THE DESIRED": {
+      "OUTCOME": 1
+    },
+    "ARE ON": {
+      "THE": 1
+    },
+    "WE ARE ON": {
+      "THE": 1
+    },
+    "ON THE": {
+      "RIGHT": 1,
+      "IMAGE": 1,
+      "CENTER": 1,
+      "FAN": 1,
+      "LIGHT": 1
+    },
+    "ARE ON THE": {
+      "RIGHT": 1
+    },
+    "WE ARE ON THE": {
+      "RIGHT": 1
+    },
+    "RIGHT": {
+      "TRACK": 1,
+      "CORNER": 1,
+      "HERE": 1
+    },
+    "THE RIGHT": {
+      "TRACK": 1
+    },
+    "ON THE RIGHT": {
+      "TRACK": 1
+    },
+    "ARE ON THE RIGHT": {
+      "TRACK": 1
+    },
+    "PLEASE LOOK": {
+      "AT": 1
+    },
+    "PLEASE LOOK AT": {
+      "THE": 1,
+      "ME": 1
+    },
+    "AT THE": {
+      "SCREEN": 1,
+      "BOTTOM": 1,
+      "ICONS": 1,
+      "VIEW": 1
+    },
+    "LOOK AT THE": {
+      "SCREEN": 1,
+      "BOTTOM": 1,
+      "ICONS": 1,
+      "VIEW": 1
+    },
+    "PLEASE LOOK AT THE": {
+      "SCREEN": 1
+    },
+    "LET ME": {
+      "SHOW": 1,
+      "CHECK": 1
+    },
+    "SHOW": {
+      "YOU": 1,
+      "ME": 1
+    },
+    "ME SHOW": {
+      "YOU": 1
+    },
+    "LET ME SHOW": {
+      "YOU": 1
+    },
+    "EVERYONE": {
+      "READY": 1
+    },
+    "IS EVERYONE": {
+      "READY": 1
+    },
+    "WORKS": {
+      "PERFECTLY": 1
+    },
+    "THIS WORKS": {
+      "PERFECTLY": 1
+    },
+    "SLIDE": {
+      "PLEASE": 1
+    },
+    "NEXT SLIDE": {
+      "PLEASE": 1
+    },
+    "NOTICE": {
+      "THE": 1
+    },
+    "NOTICE THE": {
+      "LAYOUT": 1
+    },
+    "LAYOUT": {
+      "HERE": 1
+    },
+    "THE LAYOUT": {
+      "HERE": 1
+    },
+    "NOTICE THE LAYOUT": {
+      "HERE": 1
+    },
+    "CAN YOU": {
+      "SEE": 1
+    },
+    "YOU SEE": {
+      "THIS": 1
+    },
+    "CAN YOU SEE": {
+      "THIS": 1
+    },
+    "SEE THIS": {
+      "CLEARLY": 1
+    },
+    "YOU SEE THIS": {
+      "CLEARLY": 1
+    },
+    "CAN YOU SEE THIS": {
+      "CLEARLY": 1
+    },
+    "PART": {
+      "IS": 1
+    },
+    "THIS PART": {
+      "IS": 1
+    },
+    "PART IS": {
+      "VERY": 1
+    },
+    "THIS PART IS": {
+      "VERY": 1
+    },
+    "PART IS VERY": {
+      "IMPORTANT": 1
+    },
+    "THIS PART IS VERY": {
+      "IMPORTANT": 1
+    },
+    "US MOVE": {
+      "ON": 1
+    },
+    "LET US MOVE": {
+      "ON": 1
+    },
+    "MOVE ON": {
+      "NOW": 1
+    },
+    "US MOVE ON": {
+      "NOW": 1
+    },
+    "LET US MOVE ON": {
+      "NOW": 1
+    },
+    "WATCH": {
+      "HOW": 1,
+      "THE": 1
+    },
+    "HOW": {
+      "THIS": 1,
+      "ARE": 1
+    },
+    "WATCH HOW": {
+      "THIS": 1
+    },
+    "HOW THIS": {
+      "CHANGES": 1
+    },
+    "WATCH HOW THIS": {
+      "CHANGES": 1
+    },
+    "RESULTS": {
+      "HERE": 1
+    },
+    "THE RESULTS": {
+      "HERE": 1
+    },
+    "SEE THE RESULTS": {
+      "HERE": 1
+    },
+    "CLICK": {
+      "THE": 1
+    },
+    "CLICK THE": {
+      "TOP": 1,
+      "RED": 1
+    },
+    "THE TOP": {
+      "BUTTON": 1,
+      "RIGHT": 1
+    },
+    "CLICK THE TOP": {
+      "BUTTON": 1
+    },
+    "OPEN": {
+      "THE": 1
+    },
+    "OPEN THE": {
+      "MAIN": 1,
+      "MAIL": 1,
+      "WINDOW": 1,
+      "FRONT": 1
+    },
+    "OPEN THE MAIN": {
+      "MENU": 1
+    },
+    "SELECT": {
+      "THE": 1
+    },
+    "SELECT THE": {
+      "FIRST": 1
+    },
+    "FIRST": {
+      "OPTION": 1
+    },
+    "THE FIRST": {
+      "OPTION": 1
+    },
+    "SELECT THE FIRST": {
+      "OPTION": 1
+    },
+    "SYSTEM": {
+      "IS": 1
+    },
+    "THE SYSTEM": {
+      "IS": 1
+    },
+    "SYSTEM IS": {
+      "NOW": 1
+    },
+    "THE SYSTEM IS": {
+      "NOW": 1
+    },
+    "NOW": {
+      "ACTIVE": 1,
+      "OPEN": 1,
+      "PLEASE": 1
+    },
+    "IS NOW": {
+      "ACTIVE": 1,
+      "OPEN": 1
+    },
+    "SYSTEM IS NOW": {
+      "ACTIVE": 1
+    },
+    "THE SYSTEM IS NOW": {
+      "ACTIVE": 1
+    },
+    "STATUS": {
+      "LIGHT": 1
+    },
+    "THE STATUS": {
+      "LIGHT": 1
+    },
+    "CHECK THE STATUS": {
+      "LIGHT": 1
+    },
+    "NEW": {
+      "FEATURE": 1,
+      "BOOK": 1
+    },
+    "A NEW": {
+      "FEATURE": 1
+    },
+    "IS A NEW": {
+      "FEATURE": 1
+    },
+    "THIS IS A NEW": {
+      "FEATURE": 1
+    },
+    "OBSERVE": {
+      "THE": 1
+    },
+    "OBSERVE THE": {
+      "DATA": 1
+    },
+    "DATA": {
+      "FLOW": 1
+    },
+    "THE DATA": {
+      "FLOW": 1
+    },
+    "OBSERVE THE DATA": {
+      "FLOW": 1
+    },
+    "NOTE": {
+      "THE": 1
+    },
+    "NOTE THE": {
+      "SMOOTH": 1
+    },
+    "SMOOTH": {
+      "TRANSITION": 1
+    },
+    "THE SMOOTH": {
+      "TRANSITION": 1
+    },
+    "NOTE THE SMOOTH": {
+      "TRANSITION": 1
+    },
+    "EVERYTHING": {
+      "IS": 1
+    },
+    "EVERYTHING IS": {
+      "RUNNING": 1,
+      "JUST": 1
+    },
+    "RUNNING": {
+      "WELL": 1,
+      "LATE": 1
+    },
+    "IS RUNNING": {
+      "WELL": 1
+    },
+    "EVERYTHING IS RUNNING": {
+      "WELL": 1
+    },
+    "AT THIS": {
+      "CHART": 1
+    },
+    "LOOK AT THIS": {
+      "CHART": 1
+    },
+    "GRAPH": {
+      "SHOWS": 1
+    },
+    "THE GRAPH": {
+      "SHOWS": 1
+    },
+    "SHOWS": {
+      "THE": 1
+    },
+    "GRAPH SHOWS": {
+      "THE": 1
+    },
+    "THE GRAPH SHOWS": {
+      "THE": 1
+    },
+    "SHOWS THE": {
+      "TREND": 1,
+      "ERROR": 1
+    },
+    "GRAPH SHOWS THE": {
+      "TREND": 1
+    },
+    "THE GRAPH SHOWS THE": {
+      "TREND": 1
+    },
+    "USE": {
+      "THE": 1
+    },
+    "USE THE": {
+      "SCROLL": 1
+    },
+    "SCROLL": {
+      "BAR": 1
+    },
+    "THE SCROLL": {
+      "BAR": 1
+    },
+    "USE THE SCROLL": {
+      "BAR": 1
+    },
+    "HIGHLIGHT": {
+      "THE": 1
+    },
+    "HIGHLIGHT THE": {
+      "KEY": 1
+    },
+    "KEY": {
+      "POINTS": 1
+    },
+    "THE KEY": {
+      "POINTS": 1
+    },
+    "HIGHLIGHT THE KEY": {
+      "POINTS": 1
+    },
+    "FOLLOW THE": {
+      "INSTRUCTIONS": 1
+    },
+    "INSTRUCTIONS": {
+      "PROVIDED": 1
+    },
+    "THE INSTRUCTIONS": {
+      "PROVIDED": 1
+    },
+    "FOLLOW THE INSTRUCTIONS": {
+      "PROVIDED": 1
+    },
+    "INTERFACE": {
+      "IS": 1
+    },
+    "THE INTERFACE": {
+      "IS": 1
+    },
+    "INTERFACE IS": {
+      "VERY": 1
+    },
+    "THE INTERFACE IS": {
+      "VERY": 1
+    },
+    "INTERFACE IS VERY": {
+      "CLEAN": 1
+    },
+    "THE INTERFACE IS VERY": {
+      "CLEAN": 1
+    },
+    "DRAG": {
+      "THE": 1
+    },
+    "DRAG THE": {
+      "FILE": 1
+    },
+    "FILE": {
+      "HERE": 1,
+      "AS": 1
+    },
+    "THE FILE": {
+      "HERE": 1,
+      "AS": 1
+    },
+    "DRAG THE FILE": {
+      "HERE": 1
+    },
+    "DROP": {
+      "IT": 1
+    },
+    "IT": {
+      "INTO": 1,
+      "WILL": 1,
+      "IN": 1,
+      "NOW": 1,
+      "SLOWLY": 1,
+      "IS": 1,
+      "TASTES": 1,
+      "AGAIN": 1,
+      "LOCATED": 1,
+      "GETTING": 1,
+      "TO": 1,
+      "AWAY": 1
+    },
+    "DROP IT": {
+      "INTO": 1
+    },
+    "INTO": {
+      "THE": 1
+    },
+    "IT INTO": {
+      "THE": 1
+    },
+    "DROP IT INTO": {
+      "THE": 1
+    },
+    "INTO THE": {
+      "FOLDER": 1
+    },
+    "IT INTO THE": {
+      "FOLDER": 1
+    },
+    "DROP IT INTO THE": {
+      "FOLDER": 1
+    },
+    "SAVE": {
+      "THE": 1
+    },
+    "SAVE THE": {
+      "CHANGES": 1
+    },
+    "CHANGES": {
+      "NOW": 1
+    },
+    "THE CHANGES": {
+      "NOW": 1
+    },
+    "SAVE THE CHANGES": {
+      "NOW": 1
+    },
+    "REFRESH": {
+      "THE": 1
+    },
+    "REFRESH THE": {
+      "DISPLAY": 1
+    },
+    "PROCESS": {
+      "IS": 1
+    },
+    "THE PROCESS": {
+      "IS": 1
+    },
+    "PROCESS IS": {
+      "COMPLETE": 1
+    },
+    "THE PROCESS IS": {
+      "COMPLETE": 1
+    },
+    "ZOOM": {
+      "IN": 1
+    },
+    "ZOOM IN": {
+      "ON": 1
+    },
+    "IN ON": {
+      "THE": 1
+    },
+    "ZOOM IN ON": {
+      "THE": 1
+    },
+    "IN ON THE": {
+      "IMAGE": 1
+    },
+    "ZOOM IN ON THE": {
+      "IMAGE": 1
+    },
+    "FOCUS ON": {
+      "THE": 1
+    },
+    "FOCUS ON THE": {
+      "CENTER": 1
+    },
+    "BUTTON": {
+      "STARTS": 1,
+      "DOWN": 1
+    },
+    "THIS BUTTON": {
+      "STARTS": 1
+    },
+    "STARTS": {
+      "EVERYTHING": 1
+    },
+    "BUTTON STARTS": {
+      "EVERYTHING": 1
+    },
+    "THIS BUTTON STARTS": {
+      "EVERYTHING": 1
+    },
+    "SWITCH": {
+      "TO": 1
+    },
+    "SWITCH TO": {
+      "THE": 1
+    },
+    "TO THE": {
+      "NEXT": 1,
+      "HOME": 1,
+      "LEFT": 1
+    },
+    "SWITCH TO THE": {
+      "NEXT": 1
+    },
+    "TO THE NEXT": {
+      "VIEW": 1
+    },
+    "SWITCH TO THE NEXT": {
+      "VIEW": 1
+    },
+    "ANIMATION": {
+      "IS": 1
+    },
+    "THE ANIMATION": {
+      "IS": 1
+    },
+    "ANIMATION IS": {
+      "PLAYING": 1
+    },
+    "THE ANIMATION IS": {
+      "PLAYING": 1
+    },
+    "PROGRESS": {
+      "BAR": 1
+    },
+    "THE PROGRESS": {
+      "BAR": 1
+    },
+    "SEE THE PROGRESS": {
+      "BAR": 1
+    },
+    "IT WILL": {
+      "FINISH": 1,
+      "BE": 1
+    },
+    "FINISH": {
+      "SOON": 1
+    },
+    "WILL FINISH": {
+      "SOON": 1
+    },
+    "IT WILL FINISH": {
+      "SOON": 1
+    },
+    "CONNECTION": {
+      "IS": 1
+    },
+    "THE CONNECTION": {
+      "IS": 1
+    },
+    "CONNECTION IS": {
+      "ESTABLISHED": 1
+    },
+    "THE CONNECTION IS": {
+      "ESTABLISHED": 1
+    },
+    "TYPE": {
+      "YOUR": 1
+    },
+    "TYPE YOUR": {
+      "TEXT": 1
+    },
+    "TEXT": {
+      "HERE": 1,
+      "IS": 1
+    },
+    "YOUR TEXT": {
+      "HERE": 1
+    },
+    "TYPE YOUR TEXT": {
+      "HERE": 1
+    },
+    "DELETE": {
+      "THE": 1
+    },
+    "DELETE THE": {
+      "OLD": 1
+    },
+    "OLD": {
+      "VERSION": 1
+    },
+    "THE OLD": {
+      "VERSION": 1
+    },
+    "DELETE THE OLD": {
+      "VERSION": 1
+    },
+    "COPY": {
+      "THE": 1
+    },
+    "COPY THE": {
+      "LINK": 1
+    },
+    "LINK": {
+      "NOW": 1
+    },
+    "THE LINK": {
+      "NOW": 1
+    },
+    "COPY THE LINK": {
+      "NOW": 1
+    },
+    "PASTE": {
+      "IT": 1
+    },
+    "PASTE IT": {
+      "IN": 1
+    },
+    "IT IN": {
+      "THE": 1
+    },
+    "PASTE IT IN": {
+      "THE": 1
+    },
+    "IN THE": {
+      "BOX": 1,
+      "CABLE": 1
+    },
+    "IT IN THE": {
+      "BOX": 1
+    },
+    "PASTE IT IN THE": {
+      "BOX": 1
+    },
+    "PRESS": {
+      "THE": 1
+    },
+    "PRESS THE": {
+      "ENTER": 1
+    },
+    "ENTER": {
+      "KEY": 1,
+      "THE": 1
+    },
+    "THE ENTER": {
+      "KEY": 1
+    },
+    "PRESS THE ENTER": {
+      "KEY": 1
+    },
+    "WINDOW": {
+      "IS": 1,
+      "PLEASE": 1
+    },
+    "THE WINDOW": {
+      "IS": 1,
+      "PLEASE": 1
+    },
+    "WINDOW IS": {
+      "NOW": 1
+    },
+    "THE WINDOW IS": {
+      "NOW": 1
+    },
+    "WINDOW IS NOW": {
+      "OPEN": 1
+    },
+    "THE WINDOW IS NOW": {
+      "OPEN": 1
+    },
+    "CLOSE": {
+      "THE": 1
+    },
+    "CLOSE THE": {
+      "APPLICATION": 1
+    },
+    "APPLICATION": {
+      "SAFELY": 1
+    },
+    "THE APPLICATION": {
+      "SAFELY": 1
+    },
+    "CLOSE THE APPLICATION": {
+      "SAFELY": 1
+    },
+    "RESTART": {
+      "THE": 1
+    },
+    "RESTART THE": {
+      "DEMONSTRATION": 1
+    },
+    "QUALITY": {
+      "IS": 1
+    },
+    "THE QUALITY": {
+      "IS": 1
+    },
+    "QUALITY IS": {
+      "VERY": 1
+    },
+    "THE QUALITY IS": {
+      "VERY": 1
+    },
+    "QUALITY IS VERY": {
+      "HIGH": 1
+    },
+    "THE QUALITY IS VERY": {
+      "HIGH": 1
+    },
+    "BOTTOM": {
+      "LEFT": 1
+    },
+    "THE BOTTOM": {
+      "LEFT": 1
+    },
+    "AT THE BOTTOM": {
+      "LEFT": 1
+    },
+    "LOOK AT THE BOTTOM": {
+      "LEFT": 1
+    },
+    "CHECK THE TOP": {
+      "RIGHT": 1
+    },
+    "TOP RIGHT": {
+      "CORNER": 1
+    },
+    "THE TOP RIGHT": {
+      "CORNER": 1
+    },
+    "CHECK THE TOP RIGHT": {
+      "CORNER": 1
+    },
+    "EXPLORE THE": {
+      "DIFFERENT": 1
+    },
+    "DIFFERENT": {
+      "SETTINGS": 1
+    },
+    "THE DIFFERENT": {
+      "SETTINGS": 1
+    },
+    "EXPLORE THE DIFFERENT": {
+      "SETTINGS": 1
+    },
+    "BRIGHTNESS": {
+      "LEVEL": 1
+    },
+    "THE BRIGHTNESS": {
+      "LEVEL": 1
+    },
+    "ADJUST THE BRIGHTNESS": {
+      "LEVEL": 1
+    },
+    "THE TEXT": {
+      "IS": 1
+    },
+    "TEXT IS": {
+      "VERY": 1
+    },
+    "THE TEXT IS": {
+      "VERY": 1
+    },
+    "TEXT IS VERY": {
+      "LEGIBLE": 1
+    },
+    "THE TEXT IS VERY": {
+      "LEGIBLE": 1
+    },
+    "NAVIGATE": {
+      "TO": 1
+    },
+    "NAVIGATE TO": {
+      "THE": 1
+    },
+    "NAVIGATE TO THE": {
+      "HOME": 1
+    },
+    "HOME": {
+      "PAGE": 1
+    },
+    "THE HOME": {
+      "PAGE": 1
+    },
+    "TO THE HOME": {
+      "PAGE": 1
+    },
+    "NAVIGATE TO THE HOME": {
+      "PAGE": 1
+    },
+    "RED": {
+      "ICON": 1
+    },
+    "THE RED": {
+      "ICON": 1
+    },
+    "CLICK THE RED": {
+      "ICON": 1
+    },
+    "SIGNAL": {
+      "IS": 1
+    },
+    "THE SIGNAL": {
+      "IS": 1
+    },
+    "SIGNAL IS": {
+      "VERY": 1
+    },
+    "THE SIGNAL IS": {
+      "VERY": 1
+    },
+    "SIGNAL IS VERY": {
+      "STRONG": 1
+    },
+    "THE SIGNAL IS VERY": {
+      "STRONG": 1
+    },
+    "DEFAULT": {
+      "STATE": 1
+    },
+    "THE DEFAULT": {
+      "STATE": 1
+    },
+    "IS THE DEFAULT": {
+      "STATE": 1
+    },
+    "THIS IS THE DEFAULT": {
+      "STATE": 1
+    },
+    "MODIFY": {
+      "THE": 1
+    },
+    "MODIFY THE": {
+      "CURRENT": 1
+    },
+    "CURRENT": {
+      "PARAMETERS": 1
+    },
+    "THE CURRENT": {
+      "PARAMETERS": 1
+    },
+    "MODIFY THE CURRENT": {
+      "PARAMETERS": 1
+    },
+    "THE UPDATE": {
+      "IS": 1
+    },
+    "UPDATE IS": {
+      "INSTALLING": 1
+    },
+    "THE UPDATE IS": {
+      "INSTALLING": 1
+    },
+    "FOR THE": {
+      "SIGNAL": 1
+    },
+    "WAIT FOR THE": {
+      "SIGNAL": 1
+    },
+    "HARDWARE": {
+      "IS": 1
+    },
+    "THE HARDWARE": {
+      "IS": 1
+    },
+    "HARDWARE IS": {
+      "READY": 1
+    },
+    "THE HARDWARE IS": {
+      "READY": 1
+    },
+    "PLUG": {
+      "IN": 1
+    },
+    "PLUG IN": {
+      "THE": 1
+    },
+    "PLUG IN THE": {
+      "CABLE": 1
+    },
+    "TURN": {
+      "THE": 1,
+      "UP": 1,
+      "ON": 1,
+      "DOWN": 1
+    },
+    "TURN THE": {
+      "DEVICE": 1
+    },
+    "DEVICE": {
+      "ON": 1
+    },
+    "THE DEVICE": {
+      "ON": 1
+    },
+    "TURN THE DEVICE": {
+      "ON": 1
+    },
+    "WATCH THE": {
+      "INDICATOR": 1
+    },
+    "INDICATOR": {
+      "LIGHT": 1
+    },
+    "THE INDICATOR": {
+      "LIGHT": 1
+    },
+    "WATCH THE INDICATOR": {
+      "LIGHT": 1
+    },
+    "THIS SHOWS": {
+      "THE": 1
+    },
+    "THIS SHOWS THE": {
+      "ERROR": 1
+    },
+    "WE WILL": {
+      "FIX": 1
+    },
+    "FIX": {
+      "IT": 1
+    },
+    "WILL FIX": {
+      "IT": 1
+    },
+    "WE WILL FIX": {
+      "IT": 1
+    },
+    "FIX IT": {
+      "NOW": 1
+    },
+    "WILL FIX IT": {
+      "NOW": 1
+    },
+    "WE WILL FIX IT": {
+      "NOW": 1
+    },
+    "TRY": {
+      "THE": 1,
+      "THAT": 1
+    },
+    "TRY THE": {
+      "ALTERNATIVE": 1
+    },
+    "ALTERNATIVE": {
+      "METHOD": 1
+    },
+    "THE ALTERNATIVE": {
+      "METHOD": 1
+    },
+    "TRY THE ALTERNATIVE": {
+      "METHOD": 1
+    },
+    "DESIGN": {
+      "IS": 1
+    },
+    "THE DESIGN": {
+      "IS": 1
+    },
+    "DESIGN IS": {
+      "MODERN": 1
+    },
+    "THE DESIGN IS": {
+      "MODERN": 1
+    },
+    "DETAILED": {
+      "VIEW": 1
+    },
+    "THE DETAILED": {
+      "VIEW": 1
+    },
+    "SEE THE DETAILED": {
+      "VIEW": 1
+    },
+    "COLLAPSE": {
+      "THE": 1
+    },
+    "COLLAPSE THE": {
+      "SIDE": 1
+    },
+    "SIDE": {
+      "PANEL": 1
+    },
+    "THE SIDE": {
+      "PANEL": 1
+    },
+    "COLLAPSE THE SIDE": {
+      "PANEL": 1
+    },
+    "EXPAND": {
+      "THE": 1
+    },
+    "EXPAND THE": {
+      "SEARCH": 1
+    },
+    "SEARCH": {
+      "RESULTS": 1
+    },
+    "THE SEARCH": {
+      "RESULTS": 1
+    },
+    "EXPAND THE SEARCH": {
+      "RESULTS": 1
+    },
+    "FILTER": {
+      "BY": 1
+    },
+    "BY": {
+      "THE": 1
+    },
+    "FILTER BY": {
+      "THE": 1
+    },
+    "BY THE": {
+      "CATEGORY": 1
+    },
+    "FILTER BY THE": {
+      "CATEGORY": 1
+    },
+    "SORT": {
+      "THE": 1
+    },
+    "SORT THE": {
+      "LIST": 1
+    },
+    "LIST": {
+      "ALPHABETICALLY": 1
+    },
+    "THE LIST": {
+      "ALPHABETICALLY": 1
+    },
+    "SORT THE LIST": {
+      "ALPHABETICALLY": 1
+    },
+    "PREVIEW": {
+      "IS": 1
+    },
+    "THE PREVIEW": {
+      "IS": 1
+    },
+    "PREVIEW IS": {
+      "AVAILABLE": 1
+    },
+    "THE PREVIEW IS": {
+      "AVAILABLE": 1
+    },
+    "PRINT": {
+      "THE": 1
+    },
+    "PRINT THE": {
+      "DOCUMENT": 1
+    },
+    "DOCUMENT": {
+      "NOW": 1
+    },
+    "THE DOCUMENT": {
+      "NOW": 1
+    },
+    "PRINT THE DOCUMENT": {
+      "NOW": 1
+    },
+    "EXPORT": {
+      "THE": 1
+    },
+    "EXPORT THE": {
+      "FILE": 1
+    },
+    "EXPORT THE FILE": {
+      "AS": 1
+    },
+    "AS": {
+      "PDF": 1
+    },
+    "FILE AS": {
+      "PDF": 1
+    },
+    "THE FILE AS": {
+      "PDF": 1
+    },
+    "EXPORT THE FILE AS": {
+      "PDF": 1
+    },
+    "SHARE THE": {
+      "SCREEN": 1
+    },
+    "SCREEN": {
+      "PLEASE": 1,
+      "ONCE": 1
+    },
+    "THE SCREEN": {
+      "PLEASE": 1,
+      "ONCE": 1
+    },
+    "SHARE THE SCREEN": {
+      "PLEASE": 1
+    },
+    "PRESENTATION": {
+      "IS": 1
+    },
+    "THE PRESENTATION": {
+      "IS": 1
+    },
+    "PRESENTATION IS": {
+      "STARTING": 1
+    },
+    "THE PRESENTATION IS": {
+      "STARTING": 1
+    },
+    "PAY": {
+      "ATTENTION": 1
+    },
+    "ATTENTION": {
+      "TO": 1
+    },
+    "PAY ATTENTION": {
+      "TO": 1
+    },
+    "ATTENTION TO": {
+      "THIS": 1
+    },
+    "PAY ATTENTION TO": {
+      "THIS": 1
+    },
+    "LOGIN": {
+      "SCREEN": 1
+    },
+    "THE LOGIN": {
+      "SCREEN": 1
+    },
+    "IS THE LOGIN": {
+      "SCREEN": 1
+    },
+    "THIS IS THE LOGIN": {
+      "SCREEN": 1
+    },
+    "ENTER THE": {
+      "SECURITY": 1
+    },
+    "SECURITY": {
+      "CODE": 1
+    },
+    "THE SECURITY": {
+      "CODE": 1
+    },
+    "ENTER THE SECURITY": {
+      "CODE": 1
+    },
+    "ACCESS": {
+      "IS": 1
+    },
+    "THE ACCESS": {
+      "IS": 1
+    },
+    "ACCESS IS": {
+      "GRANTED": 1
+    },
+    "THE ACCESS IS": {
+      "GRANTED": 1
+    },
+    "SUMMARY": {
+      "PAGE": 1
+    },
+    "THE SUMMARY": {
+      "PAGE": 1
+    },
+    "REVIEW THE SUMMARY": {
+      "PAGE": 1
+    },
+    "IS THE FINAL": {
+      "STEP": 1
+    },
+    "THIS IS THE FINAL": {
+      "STEP": 1
+    },
+    "SELECTION": {
+      "NOW": 1
+    },
+    "THE SELECTION": {
+      "NOW": 1
+    },
+    "CONFIRM THE SELECTION": {
+      "NOW": 1
+    },
+    "TASK": {
+      "IS": 1
+    },
+    "THE TASK": {
+      "IS": 1
+    },
+    "TASK IS": {
+      "SUCCESSFUL": 1
+    },
+    "THE TASK IS": {
+      "SUCCESSFUL": 1
+    },
+    "MENU": {
+      "IS": 1
+    },
+    "THE MENU": {
+      "IS": 1
+    },
+    "MENU IS": {
+      "SIMPLE": 1
+    },
+    "THE MENU IS": {
+      "SIMPLE": 1
+    },
+    "SWIPE": {
+      "TO": 1
+    },
+    "SWIPE TO": {
+      "THE": 1
+    },
+    "SWIPE TO THE": {
+      "LEFT": 1
+    },
+    "TAP": {
+      "THE": 1
+    },
+    "TAP THE": {
+      "SCREEN": 1
+    },
+    "TAP THE SCREEN": {
+      "ONCE": 1
+    },
+    "HOLD": {
+      "THE": 1,
+      "MY": 1
+    },
+    "HOLD THE": {
+      "BUTTON": 1
+    },
+    "THE BUTTON": {
+      "DOWN": 1
+    },
+    "HOLD THE BUTTON": {
+      "DOWN": 1
+    },
+    "RELEASE": {
+      "IT": 1
+    },
+    "RELEASE IT": {
+      "SLOWLY": 1
+    },
+    "MACHINE": {
+      "IS": 1
+    },
+    "THE MACHINE": {
+      "IS": 1
+    },
+    "MACHINE IS": {
+      "QUIET": 1
+    },
+    "THE MACHINE IS": {
+      "QUIET": 1
+    },
+    "SPEED": {
+      "IS": 1
+    },
+    "THE SPEED": {
+      "IS": 1
+    },
+    "SPEED IS": {
+      "IMPRESSIVE": 1
+    },
+    "THE SPEED IS": {
+      "IMPRESSIVE": 1
+    },
+    "SAVES": {
+      "A": 1
+    },
+    "THIS SAVES": {
+      "A": 1
+    },
+    "SAVES A": {
+      "LOT": 1
+    },
+    "THIS SAVES A": {
+      "LOT": 1
+    },
+    "IT IS": {
+      "VERY": 1,
+      "A": 1,
+      "GETTING": 1,
+      "QUITE": 1,
+      "RAINING": 1,
+      "MORNING": 1,
+      "MY": 1,
+      "TOO": 1
+    },
+    "IT IS VERY": {
+      "EFFICIENT": 1,
+      "PEACEFUL": 1,
+      "SIMPLE": 1,
+      "FAR": 1,
+      "MESSY": 1
+    },
+    "ANY": {
+      "QUESTIONS": 1
+    },
+    "QUESTIONS": {
+      "ABOUT": 1
+    },
+    "ANY QUESTIONS": {
+      "ABOUT": 1
+    },
+    "ABOUT": {
+      "THIS": 1
+    },
+    "QUESTIONS ABOUT": {
+      "THIS": 1
+    },
+    "ANY QUESTIONS ABOUT": {
+      "THIS": 1
+    },
+    "THANK": {
+      "YOU": 1
+    },
+    "THANK YOU": {
+      "FOR": 1,
+      "SO": 1
+    },
+    "YOU FOR": {
+      "WATCHING": 1,
+      "HELPING": 1
+    },
+    "THANK YOU FOR": {
+      "WATCHING": 1,
+      "HELPING": 1
+    },
+    "AMAZING": {
+      "NEWS": 1
+    },
+    "IS AMAZING": {
+      "NEWS": 1
+    },
+    "THAT IS AMAZING": {
+      "NEWS": 1
+    },
+    "AM VERY": {
+      "EXCITED": 1,
+      "HAPPY": 1,
+      "SORRY": 1,
+      "GLAD": 1,
+      "CURIOUS": 1,
+      "SURPRISED": 1,
+      "SURE": 1,
+      "THIRSTY": 1,
+      "COLD": 1,
+      "HOT": 1,
+      "TIRED": 1
+    },
+    "I AM VERY": {
+      "EXCITED": 1,
+      "HAPPY": 1,
+      "SORRY": 1,
+      "GLAD": 1,
+      "CURIOUS": 1,
+      "SURPRISED": 1,
+      "SURE": 1,
+      "THIRSTY": 1,
+      "COLD": 1,
+      "HOT": 1,
+      "TIRED": 1
+    },
+    "TIRED": {
+      "TODAY": 1
+    },
+    "AM TIRED": {
+      "TODAY": 1
+    },
+    "I AM TIRED": {
+      "TODAY": 1
+    },
+    "ME CHECK": {
+      "THAT": 1
+    },
+    "LET ME CHECK": {
+      "THAT": 1
+    },
+    "HOW ARE": {
+      "YOU": 1
+    },
+    "ARE YOU": {
+      "FEELING": 1
+    },
+    "HOW ARE YOU": {
+      "FEELING": 1
+    },
+    "IT IS A": {
+      "NICE": 1
+    },
+    "NICE": {
+      "DAY": 1
+    },
+    "A NICE": {
+      "DAY": 1
+    },
+    "IS A NICE": {
+      "DAY": 1
+    },
+    "IT IS A NICE": {
+      "DAY": 1
+    },
+    "HOPE": {
+      "YOU": 1
+    },
+    "I HOPE": {
+      "YOU": 1
+    },
+    "HOPE YOU": {
+      "ARE": 1
+    },
+    "I HOPE YOU": {
+      "ARE": 1
+    },
+    "YOU ARE": {
+      "WELL": 1,
+      "VERY": 1,
+      "RIGHT": 1,
+      "NOT": 1,
+      "MY": 1
+    },
+    "HOPE YOU ARE": {
+      "WELL": 1
+    },
+    "I HOPE YOU ARE": {
+      "WELL": 1
+    },
+    "LIKE": {
+      "FUN": 1,
+      "THE": 1,
+      "THIS": 1,
+      "YOU": 1
+    },
+    "SOUNDS LIKE": {
+      "FUN": 1
+    },
+    "THAT SOUNDS LIKE": {
+      "FUN": 1
+    },
+    "WHEN": {
+      "SHALL": 1
+    },
+    "SHALL": {
+      "WE": 1
+    },
+    "WHEN SHALL": {
+      "WE": 1
+    },
+    "SHALL WE": {
+      "MEET": 1
+    },
+    "WHEN SHALL WE": {
+      "MEET": 1
+    },
+    "AM QUITE": {
+      "BUSY": 1,
+      "LOST": 1
+    },
+    "I AM QUITE": {
+      "BUSY": 1,
+      "LOST": 1
+    },
+    "GO": {
+      "OUTSIDE": 1,
+      "NOW": 1,
+      "HOME": 1,
+      "AWAY": 1,
+      "TOGETHER": 1
+    },
+    "US GO": {
+      "OUTSIDE": 1,
+      "TOGETHER": 1
+    },
+    "LET US GO": {
+      "OUTSIDE": 1,
+      "TOGETHER": 1
+    },
+    "WHERE": {
+      "ARE": 1,
+      "IS": 1
+    },
+    "WHERE ARE": {
+      "WE": 1,
+      "MY": 1
+    },
+    "ARE WE": {
+      "GOING": 1
+    },
+    "WHERE ARE WE": {
+      "GOING": 1
+    },
+    "COMING": {
+      "SOON": 1
+    },
+    "AM COMING": {
+      "SOON": 1
+    },
+    "I AM COMING": {
+      "SOON": 1
+    },
+    "PLEASE WAIT": {
+      "FOR": 1
+    },
+    "PLEASE WAIT FOR": {
+      "ME": 1
+    },
+    "GETTING": {
+      "LATE": 1
+    },
+    "IS GETTING": {
+      "LATE": 1
+    },
+    "IT IS GETTING": {
+      "LATE": 1
+    },
+    "I SHOULD": {
+      "GO": 1
+    },
+    "SHOULD GO": {
+      "NOW": 1,
+      "HOME": 1
+    },
+    "I SHOULD GO": {
+      "NOW": 1
+    },
+    "CALL": {
+      "ME": 1,
+      "FOR": 1
+    },
+    "CALL ME": {
+      "LATER": 1
+    },
+    "LATER": {
+      "TONIGHT": 1
+    },
+    "ME LATER": {
+      "TONIGHT": 1
+    },
+    "CALL ME LATER": {
+      "TONIGHT": 1
+    },
+    "SEND ME": {
+      "A": 1
+    },
+    "ME A": {
+      "MESSAGE": 1,
+      "STORY": 1,
+      "GLASS": 1,
+      "CHAIR": 1
+    },
+    "SEND ME A": {
+      "MESSAGE": 1
+    },
+    "WILL BE": {
+      "THERE": 1,
+      "FINE": 1
+    },
+    "I WILL BE": {
+      "THERE": 1
+    },
+    "ARE VERY": {
+      "WELCOME": 1,
+      "HELPFUL": 1,
+      "KIND": 1
+    },
+    "YOU ARE VERY": {
+      "WELCOME": 1,
+      "HELPFUL": 1,
+      "KIND": 1
+    },
+    "SO": {
+      "MUCH": 1,
+      "PROUD": 1,
+      "TIRED": 1,
+      "LUCKY": 1
+    },
+    "YOU SO": {
+      "MUCH": 1
+    },
+    "THANK YOU SO": {
+      "MUCH": 1
+    },
+    "FORGIVE": {
+      "ME": 1
+    },
+    "PLEASE FORGIVE": {
+      "ME": 1
+    },
+    "IS QUITE": {
+      "ALRIGHT": 1
+    },
+    "IT IS QUITE": {
+      "ALRIGHT": 1
+    },
+    "NO": {
+      "PROBLEM": 1
+    },
+    "PROBLEM": {
+      "AT": 1
+    },
+    "NO PROBLEM": {
+      "AT": 1
+    },
+    "PROBLEM AT": {
+      "ALL": 1
+    },
+    "NO PROBLEM AT": {
+      "ALL": 1
+    },
+    "LAUGHING": {
+      "NOW": 1
+    },
+    "AM LAUGHING": {
+      "NOW": 1
+    },
+    "I AM LAUGHING": {
+      "NOW": 1
+    },
+    "TELL": {
+      "ME": 1,
+      "ANYONE": 1
+    },
+    "TELL ME": {
+      "A": 1,
+      "WHAT": 1
+    },
+    "TELL ME A": {
+      "STORY": 1
+    },
+    "LISTENING": {
+      "CLOSELY": 1,
+      "WELL": 1
+    },
+    "AM LISTENING": {
+      "CLOSELY": 1,
+      "WELL": 1
+    },
+    "I AM LISTENING": {
+      "CLOSELY": 1,
+      "WELL": 1
+    },
+    "WANT": {
+      "TO": 1,
+      "A": 1,
+      "THIS": 1
+    },
+    "I WANT": {
+      "TO": 1,
+      "A": 1,
+      "THIS": 1
+    },
+    "WANT TO": {
+      "LEARN": 1,
+      "WRITE": 1,
+      "WALK": 1
+    },
+    "I WANT TO": {
+      "LEARN": 1,
+      "WRITE": 1,
+      "WALK": 1
+    },
+    "LESSON": {
+      "IS": 1
+    },
+    "THIS LESSON": {
+      "IS": 1
+    },
+    "LESSON IS": {
+      "GREAT": 1
+    },
+    "THIS LESSON IS": {
+      "GREAT": 1
+    },
+    "HAPPENED": {
+      "NEXT": 1
+    },
+    "WHAT HAPPENED": {
+      "NEXT": 1
+    },
+    "AM SO": {
+      "PROUD": 1,
+      "TIRED": 1,
+      "LUCKY": 1
+    },
+    "I AM SO": {
+      "PROUD": 1,
+      "TIRED": 1,
+      "LUCKY": 1
+    },
+    "TRULY": {
+      "BEAUTIFUL": 1
+    },
+    "IS TRULY": {
+      "BEAUTIFUL": 1
+    },
+    "THIS IS TRULY": {
+      "BEAUTIFUL": 1
+    },
+    "WEATHER": {
+      "IS": 1
+    },
+    "THE WEATHER": {
+      "IS": 1
+    },
+    "WEATHER IS": {
+      "LOVELY": 1
+    },
+    "THE WEATHER IS": {
+      "LOVELY": 1
+    },
+    "RAINING": {
+      "OUTSIDE": 1
+    },
+    "IS RAINING": {
+      "OUTSIDE": 1
+    },
+    "IT IS RAINING": {
+      "OUTSIDE": 1
+    },
+    "I LIKE": {
+      "THE": 1,
+      "THIS": 1,
+      "YOU": 1
+    },
+    "LIKE THE": {
+      "SUNSHINE": 1
+    },
+    "I LIKE THE": {
+      "SUNSHINE": 1
+    },
+    "CLOUDS": {
+      "ARE": 1
+    },
+    "THE CLOUDS": {
+      "ARE": 1
+    },
+    "CLOUDS ARE": {
+      "PRETTY": 1
+    },
+    "THE CLOUDS ARE": {
+      "PRETTY": 1
+    },
+    "HEAR": {
+      "SOME": 1,
+      "YOU": 1
+    },
+    "I HEAR": {
+      "SOME": 1
+    },
+    "HEAR SOME": {
+      "MUSIC": 1
+    },
+    "I HEAR SOME": {
+      "MUSIC": 1
+    },
+    "SOUNDS VERY": {
+      "NICE": 1
+    },
+    "THAT SOUNDS VERY": {
+      "NICE": 1
+    },
+    "I NEED": {
+      "SOME": 1,
+      "A": 1,
+      "THE": 1,
+      "MEDICAL": 1,
+      "FRESH": 1,
+      "MY": 1,
+      "TO": 1
+    },
+    "NEED SOME": {
+      "SLEEP": 1,
+      "WATER": 1,
+      "MEDICINE": 1,
+      "ADVICE": 1,
+      "QUIET": 1
+    },
+    "I NEED SOME": {
+      "SLEEP": 1,
+      "WATER": 1,
+      "MEDICINE": 1,
+      "ADVICE": 1,
+      "QUIET": 1
+    },
+    "GOOD": {
+      "NIGHT": 1
+    },
+    "NIGHT": {
+      "TO": 1
+    },
+    "GOOD NIGHT": {
+      "TO": 1
+    },
+    "NIGHT TO": {
+      "YOU": 1
+    },
+    "GOOD NIGHT TO": {
+      "YOU": 1
+    },
+    "HAVE SOME": {
+      "SWEET": 1
+    },
+    "SWEET": {
+      "DREAMS": 1
+    },
+    "SOME SWEET": {
+      "DREAMS": 1
+    },
+    "HAVE SOME SWEET": {
+      "DREAMS": 1
+    },
+    "WAKE": {
+      "UP": 1,
+      "ME": 1
+    },
+    "WAKE UP": {
+      "EARLY": 1
+    },
+    "EARLY": {
+      "TOMORROW": 1
+    },
+    "UP EARLY": {
+      "TOMORROW": 1
+    },
+    "WAKE UP EARLY": {
+      "TOMORROW": 1
+    },
+    "MORNING": {
+      "ALREADY": 1
+    },
+    "IS MORNING": {
+      "ALREADY": 1
+    },
+    "IT IS MORNING": {
+      "ALREADY": 1
+    },
+    "BREAKFAST": {
+      "IS": 1
+    },
+    "THE BREAKFAST": {
+      "IS": 1
+    },
+    "BREAKFAST IS": {
+      "READY": 1
+    },
+    "THE BREAKFAST IS": {
+      "READY": 1
+    },
+    "TEA": {
+      "IS": 1
+    },
+    "THE TEA": {
+      "IS": 1
+    },
+    "TEA IS": {
+      "HOT": 1
+    },
+    "THE TEA IS": {
+      "HOT": 1
+    },
+    "LIKE THIS": {
+      "DRINK": 1,
+      "STORY": 1
+    },
+    "I LIKE THIS": {
+      "DRINK": 1,
+      "STORY": 1
+    },
+    "TASTES": {
+      "VERY": 1
+    },
+    "IT TASTES": {
+      "VERY": 1
+    },
+    "TASTES VERY": {
+      "GOOD": 1
+    },
+    "IT TASTES VERY": {
+      "GOOD": 1
+    },
+    "AM FULL": {
+      "NOW": 1
+    },
+    "I AM FULL": {
+      "NOW": 1
+    },
+    "WALK": {
+      "TOGETHER": 1
+    },
+    "US WALK": {
+      "TOGETHER": 1
+    },
+    "LET US WALK": {
+      "TOGETHER": 1
+    },
+    "PARK": {
+      "IS": 1
+    },
+    "THE PARK": {
+      "IS": 1
+    },
+    "PARK IS": {
+      "BEAUTIFUL": 1
+    },
+    "THE PARK IS": {
+      "BEAUTIFUL": 1
+    },
+    "TREES": {
+      "ARE": 1
+    },
+    "THE TREES": {
+      "ARE": 1
+    },
+    "TREES ARE": {
+      "TALL": 1
+    },
+    "THE TREES ARE": {
+      "TALL": 1
+    },
+    "NATURE": {
+      "IS": 1
+    },
+    "NATURE IS": {
+      "VERY": 1
+    },
+    "NATURE IS VERY": {
+      "CALM": 1
+    },
+    "LOVE": {
+      "THIS": 1
+    },
+    "I LOVE": {
+      "THIS": 1
+    },
+    "LOVE THIS": {
+      "PLACE": 1
+    },
+    "I LOVE THIS": {
+      "PLACE": 1
+    },
+    "WE SHOULD GO": {
+      "HOME": 1
+    },
+    "ALMOST": {
+      "THERE": 1
+    },
+    "AM ALMOST": {
+      "THERE": 1
+    },
+    "I AM ALMOST": {
+      "THERE": 1
+    },
+    "MAIL": {
+      "PLEASE": 1
+    },
+    "THE MAIL": {
+      "PLEASE": 1
+    },
+    "OPEN THE MAIL": {
+      "PLEASE": 1
+    },
+    "READ": {
+      "THE": 1
+    },
+    "READ THE": {
+      "NEW": 1
+    },
+    "THE NEW": {
+      "BOOK": 1
+    },
+    "READ THE NEW": {
+      "BOOK": 1
+    },
+    "ENDING": {
+      "WAS": 1
+    },
+    "THE ENDING": {
+      "WAS": 1
+    },
+    "WAS": {
+      "PERFECT": 1,
+      "QUITE": 1
+    },
+    "ENDING WAS": {
+      "PERFECT": 1
+    },
+    "THE ENDING WAS": {
+      "PERFECT": 1
+    },
+    "THAT WAS": {
+      "QUITE": 1
+    },
+    "WAS QUITE": {
+      "UNEXPECTED": 1
+    },
+    "THAT WAS QUITE": {
+      "UNEXPECTED": 1
+    },
+    "AM A": {
+      "BIT": 1
+    },
+    "I AM A": {
+      "BIT": 1
+    },
+    "BIT": {
+      "CONFUSED": 1,
+      "AFRAID": 1
+    },
+    "A BIT": {
+      "CONFUSED": 1,
+      "AFRAID": 1
+    },
+    "AM A BIT": {
+      "CONFUSED": 1,
+      "AFRAID": 1
+    },
+    "I AM A BIT": {
+      "CONFUSED": 1,
+      "AFRAID": 1
+    },
+    "EXPLAIN IT": {
+      "AGAIN": 1
+    },
+    "PLEASE EXPLAIN IT": {
+      "AGAIN": 1
+    },
+    "UNDERSTAND IT": {
+      "NOW": 1
+    },
+    "I UNDERSTAND IT": {
+      "NOW": 1
+    },
+    "MAYBE": {
+      "YOU": 1
+    },
+    "MAYBE YOU": {
+      "ARE": 1
+    },
+    "MAYBE YOU ARE": {
+      "RIGHT": 1
+    },
+    "US TRY": {
+      "THAT": 1
+    },
+    "LET US TRY": {
+      "THAT": 1
+    },
+    "IT WILL BE": {
+      "FINE": 1
+    },
+    "DO": {
+      "NOT": 1
+    },
+    "DO NOT": {
+      "WORRY": 1,
+      "GO": 1,
+      "TELL": 1
+    },
+    "WORRY": {
+      "MUCH": 1
+    },
+    "NOT WORRY": {
+      "MUCH": 1
+    },
+    "DO NOT WORRY": {
+      "MUCH": 1
+    },
+    "JUST": {
+      "FINE": 1
+    },
+    "IS JUST": {
+      "FINE": 1
+    },
+    "EVERYTHING IS JUST": {
+      "FINE": 1
+    },
+    "AM RIGHT": {
+      "HERE": 1
+    },
+    "I AM RIGHT": {
+      "HERE": 1
+    },
+    "ARE NOT": {
+      "ALONE": 1
+    },
+    "YOU ARE NOT": {
+      "ALONE": 1
+    },
+    "ARE IN": {
+      "THIS": 1
+    },
+    "WE ARE IN": {
+      "THIS": 1
+    },
+    "IN THIS": {
+      "TOGETHER": 1
+    },
+    "ARE IN THIS": {
+      "TOGETHER": 1
+    },
+    "WE ARE IN THIS": {
+      "TOGETHER": 1
+    },
+    "SUPPORT": {
+      "YOUR": 1
+    },
+    "I SUPPORT": {
+      "YOUR": 1
+    },
+    "SUPPORT YOUR": {
+      "CHOICE": 1
+    },
+    "I SUPPORT YOUR": {
+      "CHOICE": 1
+    },
+    "APPRECIATE THE": {
+      "HELP": 1
+    },
+    "I APPRECIATE THE": {
+      "HELP": 1
+    },
+    "KEEP THE": {
+      "SMALL": 1
+    },
+    "SMALL": {
+      "CHANGE": 1
+    },
+    "THE SMALL": {
+      "CHANGE": 1
+    },
+    "KEEP THE SMALL": {
+      "CHANGE": 1
+    },
+    "MY": {
+      "PLEASURE": 1,
+      "HEAD": 1,
+      "COAT": 1,
+      "PHONE": 1,
+      "KEYS": 1,
+      "BAG": 1,
+      "GLASSES": 1,
+      "HAND": 1,
+      "FRIEND": 1
+    },
+    "IS MY": {
+      "PLEASURE": 1,
+      "COAT": 1,
+      "PHONE": 1
+    },
+    "IT IS MY": {
+      "PLEASURE": 1
+    },
+    "WONDERFUL": {
+      "TIME": 1
+    },
+    "A WONDERFUL": {
+      "TIME": 1
+    },
+    "HAVE A WONDERFUL": {
+      "TIME": 1
+    },
+    "ENJOY": {
+      "YOUR": 1
+    },
+    "ENJOY YOUR": {
+      "WHOLE": 1
+    },
+    "WHOLE": {
+      "DAY": 1
+    },
+    "YOUR WHOLE": {
+      "DAY": 1
+    },
+    "ENJOY YOUR WHOLE": {
+      "DAY": 1
+    },
+    "MISS": {
+      "YOU": 1
+    },
+    "WILL MISS": {
+      "YOU": 1
+    },
+    "I WILL MISS": {
+      "YOU": 1
+    },
+    "WHERE IS": {
+      "THE": 1,
+      "MY": 1
+    },
+    "WHERE IS THE": {
+      "WATER": 1,
+      "FOOD": 1,
+      "RESTROOM": 1,
+      "EXIT": 1,
+      "CAR": 1
+    },
+    "GIVE": {
+      "ME": 1,
+      "IT": 1
+    },
+    "GIVE ME": {
+      "A": 1,
+      "SOME": 1
+    },
+    "GIVE ME A": {
+      "GLASS": 1
+    },
+    "HUNGRY": {
+      "NOW": 1
+    },
+    "AM HUNGRY": {
+      "NOW": 1
+    },
+    "I AM HUNGRY": {
+      "NOW": 1
+    },
+    "WANT A": {
+      "SNACK": 1
+    },
+    "I WANT A": {
+      "SNACK": 1
+    },
+    "I NEED A": {
+      "NAPKIN": 1,
+      "BLANKET": 1,
+      "NAP": 1,
+      "PEN": 1,
+      "HUG": 1,
+      "FRIEND": 1,
+      "TOWEL": 1
+    },
+    "NEED THE": {
+      "BATHROOM": 1
+    },
+    "I NEED THE": {
+      "BATHROOM": 1
+    },
+    "IS IT": {
+      "LOCATED": 1,
+      "GETTING": 1
+    },
+    "LOCATED": {
+      "NEARBY": 1
+    },
+    "IT LOCATED": {
+      "NEARBY": 1
+    },
+    "IS IT LOCATED": {
+      "NEARBY": 1
+    },
+    "HELP": {
+      "ME": 1
+    },
+    "PLEASE HELP": {
+      "ME": 1
+    },
+    "HELP ME": {
+      "NOW": 1
+    },
+    "PLEASE HELP ME": {
+      "NOW": 1
+    },
+    "WHICH": {
+      "WAY": 1
+    },
+    "WAY": {
+      "SHOULD": 1
+    },
+    "WHICH WAY": {
+      "SHOULD": 1
+    },
+    "WAY SHOULD": {
+      "I": 1
+    },
+    "WHICH WAY SHOULD": {
+      "I": 1
+    },
+    "SHOULD I": {
+      "GO": 1
+    },
+    "WAY SHOULD I": {
+      "GO": 1
+    },
+    "WHICH WAY SHOULD I": {
+      "GO": 1
+    },
+    "MEDICAL": {
+      "HELP": 1
+    },
+    "NEED MEDICAL": {
+      "HELP": 1
+    },
+    "I NEED MEDICAL": {
+      "HELP": 1
+    },
+    "FEEL": {
+      "VERY": 1,
+      "SAFE": 1
+    },
+    "I FEEL": {
+      "VERY": 1,
+      "SAFE": 1
+    },
+    "FEEL VERY": {
+      "SICK": 1
+    },
+    "I FEEL VERY": {
+      "SICK": 1
+    },
+    "HEAD": {
+      "IS": 1
+    },
+    "MY HEAD": {
+      "IS": 1
+    },
+    "HEAD IS": {
+      "HURTING": 1
+    },
+    "MY HEAD IS": {
+      "HURTING": 1
+    },
+    "CALL FOR": {
+      "SOME": 1
+    },
+    "FOR SOME": {
+      "ASSISTANCE": 1
+    },
+    "CALL FOR SOME": {
+      "ASSISTANCE": 1
+    },
+    "WHERE IS MY": {
+      "COAT": 1,
+      "PHONE": 1
+    },
+    "TURN UP": {
+      "THE": 1
+    },
+    "UP THE": {
+      "HEAT": 1
+    },
+    "TURN UP THE": {
+      "HEAT": 1
+    },
+    "TURN ON": {
+      "THE": 1
+    },
+    "TURN ON THE": {
+      "FAN": 1,
+      "LIGHT": 1
+    },
+    "OPEN THE WINDOW": {
+      "PLEASE": 1
+    },
+    "FRESH": {
+      "AIR": 1
+    },
+    "NEED FRESH": {
+      "AIR": 1
+    },
+    "I NEED FRESH": {
+      "AIR": 1
+    },
+    "LOST": {
+      "MY": 1
+    },
+    "I LOST": {
+      "MY": 1
+    },
+    "LOST MY": {
+      "KEYS": 1
+    },
+    "I LOST MY": {
+      "KEYS": 1
+    },
+    "NEED MY": {
+      "BAG": 1
+    },
+    "I NEED MY": {
+      "BAG": 1
+    },
+    "PASS": {
+      "ME": 1
+    },
+    "PASS ME": {
+      "THE": 1
+    },
+    "ME THE": {
+      "REMOTE": 1,
+      "WAY": 1
+    },
+    "PASS ME THE": {
+      "REMOTE": 1
+    },
+    "TOO": {
+      "DARK": 1,
+      "LOUD": 1
+    },
+    "IS TOO": {
+      "DARK": 1,
+      "LOUD": 1
+    },
+    "IT IS TOO": {
+      "DARK": 1,
+      "LOUD": 1
+    },
+    "CANNOT": {
+      "SEE": 1,
+      "HEAR": 1
+    },
+    "I CANNOT": {
+      "SEE": 1,
+      "HEAR": 1
+    },
+    "CANNOT SEE": {
+      "WELL": 1
+    },
+    "I CANNOT SEE": {
+      "WELL": 1
+    },
+    "ARE MY": {
+      "GLASSES": 1,
+      "FRIEND": 1
+    },
+    "WHERE ARE MY": {
+      "GLASSES": 1
+    },
+    "I NEED TO": {
+      "SIT": 1,
+      "GO": 1
+    },
+    "FIND": {
+      "ME": 1
+    },
+    "FIND ME": {
+      "A": 1
+    },
+    "FIND ME A": {
+      "CHAIR": 1
+    },
+    "WAKE ME": {
+      "UP": 1
+    },
+    "ME UP": {
+      "LATER": 1
+    },
+    "WAKE ME UP": {
+      "LATER": 1
+    },
+    "TIME": {
+      "IS": 1
+    },
+    "WHAT TIME": {
+      "IS": 1
+    },
+    "TIME IS": {
+      "IT": 1
+    },
+    "WHAT TIME IS": {
+      "IT": 1
+    },
+    "IT GETTING": {
+      "LATE": 1
+    },
+    "IS IT GETTING": {
+      "LATE": 1
+    },
+    "FRONT": {
+      "DOOR": 1
+    },
+    "THE FRONT": {
+      "DOOR": 1
+    },
+    "OPEN THE FRONT": {
+      "DOOR": 1
+    },
+    "LOCK": {
+      "THE": 1
+    },
+    "LOCK THE": {
+      "DOOR": 1
+    },
+    "DOOR": {
+      "NOW": 1
+    },
+    "THE DOOR": {
+      "NOW": 1
+    },
+    "LOCK THE DOOR": {
+      "NOW": 1
+    },
+    "ME SOME": {
+      "PAPER": 1
+    },
+    "GIVE ME SOME": {
+      "PAPER": 1
+    },
+    "SHOW ME": {
+      "THE": 1
+    },
+    "SHOW ME THE": {
+      "WAY": 1
+    },
+    "HOLD MY": {
+      "HAND": 1
+    },
+    "HAND": {
+      "PLEASE": 1
+    },
+    "MY HAND": {
+      "PLEASE": 1
+    },
+    "HOLD MY HAND": {
+      "PLEASE": 1
+    },
+    "PLEASE STAY": {
+      "WITH": 1
+    },
+    "STAY WITH": {
+      "ME": 1
+    },
+    "PLEASE STAY WITH": {
+      "ME": 1
+    },
+    "NOT GO": {
+      "AWAY": 1
+    },
+    "DO NOT GO": {
+      "AWAY": 1
+    },
+    "SAFE": {
+      "NOW": 1
+    },
+    "FEEL SAFE": {
+      "NOW": 1
+    },
+    "I FEEL SAFE": {
+      "NOW": 1
+    },
+    "ME WHAT": {
+      "HAPPENS": 1
+    },
+    "TELL ME WHAT": {
+      "HAPPENS": 1
+    },
+    "SPEAK": {
+      "LOUDER": 1
+    },
+    "LOUDER": {
+      "PLEASE": 1
+    },
+    "SPEAK LOUDER": {
+      "PLEASE": 1
+    },
+    "CANNOT HEAR": {
+      "YOU": 1
+    },
+    "I CANNOT HEAR": {
+      "YOU": 1
+    },
+    "DOWN": {
+      "THE": 1
+    },
+    "TURN DOWN": {
+      "THE": 1
+    },
+    "DOWN THE": {
+      "VOLUME": 1,
+      "PACE": 1
+    },
+    "TURN DOWN THE": {
+      "VOLUME": 1
+    },
+    "PLEASE BE": {
+      "VERY": 1
+    },
+    "PLEASE BE VERY": {
+      "STILL": 1
+    },
+    "WAIT A": {
+      "MINUTE": 1
+    },
+    "MINUTE": {
+      "PLEASE": 1
+    },
+    "A MINUTE": {
+      "PLEASE": 1
+    },
+    "WAIT A MINUTE": {
+      "PLEASE": 1
+    },
+    "SLOW": {
+      "DOWN": 1
+    },
+    "SLOW DOWN": {
+      "THE": 1
+    },
+    "SLOW DOWN THE": {
+      "PACE": 1
+    },
+    "HURRY": {
+      "UP": 1
+    },
+    "HURRY UP": {
+      "NOW": 1
+    },
+    "UP NOW": {
+      "PLEASE": 1
+    },
+    "HURRY UP NOW": {
+      "PLEASE": 1
+    },
+    "ARE RUNNING": {
+      "LATE": 1
+    },
+    "WE ARE RUNNING": {
+      "LATE": 1
+    },
+    "DRIVE": {
+      "VERY": 1
+    },
+    "DRIVE VERY": {
+      "CAREFULLY": 1
+    },
+    "CAREFULLY": {
+      "PLEASE": 1
+    },
+    "VERY CAREFULLY": {
+      "PLEASE": 1
+    },
+    "DRIVE VERY CAREFULLY": {
+      "PLEASE": 1
+    },
+    "STOP": {
+      "THE": 1
+    },
+    "STOP THE": {
+      "CAR": 1
+    },
+    "CAR": {
+      "NOW": 1
+    },
+    "THE CAR": {
+      "NOW": 1
+    },
+    "STOP THE CAR": {
+      "NOW": 1
+    },
+    "PLACE": {
+      "CLOSE": 1
+    },
+    "THE PLACE": {
+      "CLOSE": 1
+    },
+    "IS THE PLACE": {
+      "CLOSE": 1
+    },
+    "LISTEN": {
+      "TO": 1
+    },
+    "LISTEN TO": {
+      "ME": 1
+    },
+    "TO ME": {
+      "NOW": 1
+    },
+    "LISTEN TO ME": {
+      "NOW": 1
+    },
+    "NOT TELL": {
+      "ANYONE": 1
+    },
+    "DO NOT TELL": {
+      "ANYONE": 1
+    },
+    "YOU ARE MY": {
+      "FRIEND": 1
+    },
+    "LIKE YOU": {
+      "A": 1
+    },
+    "I LIKE YOU": {
+      "A": 1
+    },
+    "YOU A": {
+      "LOT": 1
+    },
+    "LIKE YOU A": {
+      "LOT": 1
+    },
+    "I LIKE YOU A": {
+      "LOT": 1
+    },
+    "ABSOLUTELY": {
+      "PERFECT": 1
+    },
+    "IS ABSOLUTELY": {
+      "PERFECT": 1
+    },
+    "THIS IS ABSOLUTELY": {
+      "PERFECT": 1
+    },
+    "WANT THIS": {
+      "ONE": 1
+    },
+    "I WANT THIS": {
+      "ONE": 1
+    },
+    "NOT THAT": {
+      "ONE": 1
+    },
+    "ONE": {
+      "PLEASE": 1
+    },
+    "THAT ONE": {
+      "PLEASE": 1
+    },
+    "NOT THAT ONE": {
+      "PLEASE": 1
+    },
+    "GIVE IT": {
+      "TO": 1
+    },
+    "IT TO": {
+      "ME": 1
+    },
+    "GIVE IT TO": {
+      "ME": 1
+    },
+    "TAKE IT": {
+      "AWAY": 1
+    },
+    "AWAY": {
+      "NOW": 1
+    },
+    "IT AWAY": {
+      "NOW": 1
+    },
+    "TAKE IT AWAY": {
+      "NOW": 1
+    },
+    "DONE": {
+      "NOW": 1
+    },
+    "AM DONE": {
+      "NOW": 1
+    },
+    "I AM DONE": {
+      "NOW": 1
+    },
+    "CLEAN": {
+      "THIS": 1
+    },
+    "CLEAN THIS": {
+      "MESS": 1
+    },
+    "MESS": {
+      "UP": 1
+    },
+    "THIS MESS": {
+      "UP": 1
+    },
+    "CLEAN THIS MESS": {
+      "UP": 1
+    },
+    "WASH": {
+      "YOUR": 1
+    },
+    "WASH YOUR": {
+      "HANDS": 1
+    },
+    "HANDS": {
+      "PLEASE": 1
+    },
+    "YOUR HANDS": {
+      "PLEASE": 1
+    },
+    "WASH YOUR HANDS": {
+      "PLEASE": 1
+    },
+    "DRY": {
+      "YOUR": 1
+    },
+    "DRY YOUR": {
+      "FACE": 1
+    },
+    "FACE": {
+      "NOW": 1
+    },
+    "YOUR FACE": {
+      "NOW": 1
+    },
+    "DRY YOUR FACE": {
+      "NOW": 1
+    }
+  },
+  "stats": {
+    "created": 1771249637.3859434,
+    "type": "custom-trained"
+  }
+}

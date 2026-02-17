@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sign2Sound Web</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@mediapipe/drawing_utils/drawing_utils.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <p class="eyebrow">Sign2Sound ZORA / Browser Edition</p>
+      <h1>ASL Alphabet to Text in the Browser</h1>
+      <p class="subtext">Runs fully client-side with MediaPipe Hands + TensorFlow.js.</p>
+      <p id="status" class="status">Loading model...</p>
+    </header>
+
+    <section class="grid">
+      <div class="camera-card">
+        <video id="videoInput" autoplay muted playsinline></video>
+        <canvas id="overlay"></canvas>
+      </div>
+
+      <div class="panel">
+        <div class="metric">
+          <h2>Live Letter</h2>
+          <p id="liveLetter" class="live-letter">_</p>
+          <p id="liveConfidence" class="muted">Confidence: --</p>
+          <div class="progress-track">
+            <div id="holdProgress" class="progress-fill"></div>
+          </div>
+        </div>
+
+        <div class="metric">
+          <h2>Current Word</h2>
+          <p id="currentWord" class="word">(none)</p>
+        </div>
+
+        <div class="metric">
+          <div class="metric-row">
+            <h2>Suggestions</h2>
+            <p id="modeBadge" class="mode-badge">SPELLING</p>
+          </div>
+          <p id="gestureHint" class="muted">Gesture: none</p>
+          <div id="suggestions" class="suggestions"></div>
+        </div>
+
+        <div class="controls">
+          <button id="confirmWordBtn" type="button">Confirm Word</button>
+          <button id="acceptSuggestionBtn" type="button">Accept Suggestion</button>
+          <button id="switchCameraBtn" type="button">Switch Camera</button>
+          <button id="backspaceBtn" type="button">Backspace</button>
+          <button id="undoWordBtn" type="button">Undo Word</button>
+          <button id="clearWordBtn" type="button">Clear Word</button>
+          <button id="speakWordBtn" type="button">Speak</button>
+        </div>
+
+        <div class="metric">
+          <h2>Transcript</h2>
+          <p id="transcript" class="transcript">(empty)</p>
+        </div>
+
+        <p class="help">Keyboard: Enter=confirm, Tab=accept suggestion, Backspace=delete letter, Ctrl+Backspace=undo word, Esc=clear word</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
